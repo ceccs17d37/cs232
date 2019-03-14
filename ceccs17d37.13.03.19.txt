@@ -1,0 +1,540 @@
+Script started on 2019-03-13 23:36:52+0530
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ 29_queue_LL.c[6P./a.outgcc 28_circular_q_array.c ./a.out[Kgcc 27_dequeue_array.c [2P6_Q[C[C[C[C[C[C[C[C[C[C[C[C[C[14P./a.outgcc 24_infix_evaluation.c ./a.out[Kgcc 23_postfix_eval.c ./a.out[Kgcc 24_infix_evaluation.c [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpasteb[K result_one_per_line.txtresult_CHN\(1\).txt 
+CHN17CS001  CY100(B), BE110(B+), EC100(B+), CY110(O), EC110(A+), MA102(A), BE102(A), CS100(B+), CS120(O)
+CHN17CS002  CY100(B+), BE110(B+), EC100(A), CY110(B+), EC110(A+), MA102(B+), BE102(A), CS100(Absent), CS120(B+)
+CHN17CS003  CY100(C), BE110(C), EC100(B), CY110(B+), EC110(A+), MA102(C), BE102(B+), CS100(C), CS120(C)
+CHN17CS004  CY100(B+), BE110(A), EC100(A), CY110(A+), EC110(O), MA102(A), BE102(B+), CS100(B+), CS120(O)
+CHN17CS005  CY100(B), BE110(A), EC100(A), CY110(A), EC110(O), MA102(F), BE102(A), CS100(F), CS120(B)
+CHN17CS006  CY100(A+), BE110(A+), EC100(O), CY110(A), EC110(A), MA102(O), BE102(B+), CS100(A+), CS120(O)
+CHN17CS007  CY100(B), BE110(B), EE100(B), EC100(C), CY110(A), EC110(O), MA102(F), BE102(B+), CS100(C), CS120(C)
+CHN17CS008  CY100(B+), BE110(B+), EC100(B), CY110(A), EC110(O), MA102(C), BE102(B+), CS100(B+), CS120(O)
+CHN17CS009  CY100(B+), BE110(B), EC100(A), CY110(B), EC110(O), MA102(A), BE102(A), CS100(F), CS120(B+)
+CHN17CS010  CY100(C), BE110(B), EC100(C), CY110(B), EC110(O), MA102(C), BE102(B+), CS100(C), CS120(B+)
+CHN17CS011  CY100(B), BE110(O), EC100(B+), CY110(A+), EC110(O), MA102(B+), BE102(A), CS100(A+), CS120(O)
+CHN17CS012  CY100(O), BE110(O), EC100(A+), CY110(O), EC110(O), MA102(B+), BE102(A), CS100(B+), CS120(B+)
+CHN17CS013  CY100(B+), BE110(A), EC100(B+), CY110(A), EC110(O), MA102(B+), BE102(A), CS100(A+), CS120(O)
+CHN17CS014  CY100(C), BE100(P), BE110(B+), EC100(B), CY110(O), EC110(O), MA102(F), BE102(B+), CS100(F), CS120(B+)
+CHN17CS015  CY100(A), BE110(A), EC100(B+), CY110(A+), EC110(A+), MA102(B), BE102(A), CS100(B), CS120(B)
+CHN17CS016  CY100(B), BE110(A), EC100(B), CY110(O), EC110(A+), MA102(F), BE102(B+), CS100(C), CS120(B)
+CHN17CS017  CY100(A), BE110(A), EC100(B+), CY110(A+), EC110(A+), MA102(A+), BE102(A+), CS100(B+), CS120(O)
+CHN17CS018  PH100(F), CY100(F), BE110(B), EC100(F), CY110(A), EC110(A), MA102(F), BE102(A), CS100(F), CS120(O)
+CHN17CS019  CY100(A+), BE110(B+), EC100(A), CY110(O), EC110(O), MA102(A+), BE102(A), CS100(A), CS120(O)
+CHN17CS020  CY100(B), BE110(A+), EC100(B), CY110(O), EC110(O), MA102(C), BE102(B+), CS100(B), CS120(B+)
+CHN17CS021  CY100(B), BE110(B), EC100(B), CY110(A+), EC110(A+), MA102(B), BE102(A), CS100(B+), CS120(O)
+CHN17CS022  CY100(C), BE100(F), BE110(F), EC100(F), CY110(A), EC110(A), MA102(F), BE102(B), CS100(C), CS120(B+)
+CHN17CS023  CY100(F), BE110(F), EC100(F), CY110(A+), EC110(A), MA102(F), BE102(A+), CS100(F), CS120(B+)
+CHN17CS024  CY100(A), BE110(A+), EC100(A+), CY110(A+), EC110(O), MA102(B), BE102(A+), CS100(B), CS120(O)
+CHN17CS025  CY100(B+), BE110(B+), EC100(B+), CY110(O), EC110(O), MA102(B), BE102(B+), CS100(C), CS120(B)
+CHN17CS026  CY100(B), BE110(F), EC100(B), CY110(O), EC110(O), MA102(C), BE102(B+), CS100(A+), CS120(O)
+CHN17CS027  CY100(B+), BE110(B+), EC100(B), CY110(A+), EC110(A), MA102(C), BE102(A), CS100(O), CS120(O)
+CHN17CS028  CY100(B+), BE110(A+), EC100(B+), CY110(O), EC110(O), MA102(B), BE102(A), CS100(B), CS120(A+)
+CHN17CS029  PH100(F), CY100(C), BE100(F), BE110(B), EC100(F), CY110(A), EC110(A), MA102(F), BE102(B+), CS100(P), CS120(O)
+CHN17CS030  CY100(A+), BE110(O), EC100(B+), CY110(O), EC110(O), MA102(A+), BE102(A), CS100(A+), CS120(O)
+CHN17CS031  CY100(B+), BE100(C), BE110(B+), EC100(B), CY110(A), EC110(O), MA102(F), BE102(A), CS100(B), CS120(B+)
+CHN17CS032  CY100(B), BE110(B+), EC100(C), CY110(A+), EC110(A), MA102(F), BE102(A), CS100(B), CS120(O)
+CHN17CS033  CY100(B), BE110(A+), EC100(B+), CY110(O), EC110(A+), MA102(A+), BE102(A), CS100(C), CS120(A+)
+CHN17CS034  CY100(B+), BE110(B), EC100(B), CY110(A+), EC110(A+), MA102(B+), BE102(A+), CS100(F), CS120(O)
+CHN17CS035  CY100(C), BE100(P), BE110(B), EC100(B), CY110(A), EC110(O), MA102(F), BE102(A), CS100(F), CS120(B)
+CHN17CS036  CY100(A+), BE110(O), EC100(O), CY110(O), EC110(O), MA102(A+), BE102(O), CS100(A), CS120(B+)
+CHN17CS037  PH100(F), CY100(P), BE110(F), EC100(F), CY110(A), EC110(A+), MA102(C), BE102(A), CS100(B), CS120(O)
+CHN17CS038  CY100(F), BE110(F), EC100(C), CY110(A), EC110(A), MA102(F), BE102(B+), CS100(F), CS120(B+)
+CHN17CS039  CY100(C), BE110(O), EC100(C), CY110(B+), EC110(O), MA102(B), BE102(A), CS100(B), CS120(A+)
+CHN17CS040  CY100(A+), BE110(O), EC100(A+), CY110(O), EC110(O), MA102(O), BE102(A+), CS100(B+), CS120(B+)
+CHN17CS041  PH100(B), CY100(A), BE110(A+), EC100(B), CY110(A+), EC110(A+), MA102(B), BE102(A+), CS100(B+), CS120(O)
+CHN17CS042  PH100(F), CY100(F), BE110(B+), EC100(F), CY110(B+), EC110(O), MA102(F), BE102(A+), CS100(B), CS120(B+)
+CHN17CS043  PH100(B), CY100(B), BE110(A), EC100(B), CY110(O), EC110(A+), MA102(B), BE102(A+), CS100(F), CS120(B)
+CHN17CS044  CY100(B+), BE110(O), EC100(B+), CY110(A+), EC110(A+), MA102(O), BE102(A), CS100(O), CS120(O)
+CHN17CS045  PH100(C), CY100(B), BE110(F), EC100(F), CY110(A+), EC110(A), MA102(F), BE102(A+), CS100(F), CS120(A)
+CHN17CS046  PH100(F), CY100(C), BE110(B+), EC100(B), CY110(A), EC110(A+), MA102(F), BE102(A), CS100(F), CS120(B+)
+CHN17CS047  PH100(B), CY100(B), BE100(F), BE110(B+), EC100(B+), CY110(A), EC110(A), MA102(B), BE102(B+), CS100(F), CS120(B+)
+CHN17CS048  CY100(B+), BE110(O), EC100(A), CY110(A+), EC110(O), MA102(B+), BE102(A+), CS100(B+), CS120(O)
+CHN17CS049  CY100(O), BE110(A+), EC100(A+), CY110(O), EC110(O), MA102(A+), BE102(O), CS100(B+), CS120(O)
+CHN17CS050  CY100(B), BE110(A), EC100(B+), CY110(O), EC110(A+), MA102(O), BE102(A), CS100(B), CS120(A)
+CHN17CS051  CY100(C), BE110(A+), EC100(B+), CY110(A+), EC110(A), MA102(B+), BE102(A), CS100(B), CS120(O)
+CHN17CS052  PH100(C), CY100(C), BE100(F), BE110(B), EC100(C), CY110(A+), EC110(A), MA102(C), BE102(B+), CS100(B), CS120(O)
+CHN17CS053  CY100(A+), BE110(A+), EC100(B+), CY110(O), EC110(O), MA102(O), BE102(A+), CS100(B), CS120(O)
+CHN17CS054  CY100(B), BE100(B+), BE110(A+), EC100(B+), CY110(A+), EC110(O), MA102(B+), BE102(B+), CS100(B), CS120(O)
+CHN17CS055  CY100(C), BE110(B+), EC100(C), CY110(A), EC110(A), MA102(C), BE102(B+), CS100(B), CS120(O)
+CHN17CS056  CY100(B), BE100(C), BE110(B+), EC100(B), CY110(A), EC110(A+), MA102(F), BE102(B+), CS100(C), CS120(B+)
+CHN17CS057  CY100(O), BE110(O), EC100(O), CY110(O), EC110(O), MA102(A), BE102(A+), CS100(O), CS120(O)
+CHN17CS058  CY100(O), BE110(O), EC100(A+), CY110(O), EC110(O), MA102(A+), BE102(A+), CS100(B+), CS120(O)
+CHN17CS059  CY100(B+), BE110(F), EC100(B+), CY110(A+), EC110(A+), MA102(B+), BE102(A+), CS100(B), CS120(A)
+CHN17CS060  CY100(B+), BE100(B+), BE110(A+), EC100(B+), CY110(A+), EC110(O), MA102(B), BE102(A), CS100(B), CS120(O)
+CHN17CS061  CY100(B+), BE110(B+), EC100(A), CY110(O), EC110(O), MA102(B+), BE102(A+), CS100(B+), CS120(A)
+CHN17CS062  CY100(A+), BE110(A), EC100(A), CY110(A+), EC110(A+), MA102(B+), BE102(B+), CS100(B+), CS120(O)
+CHN17CS063  CY100(B+), BE110(B+), EC100(A), CY110(O), EC110(O), MA102(B+), BE102(A), CS100(B), CS120(O)
+CHN17CS064  CY100(B+), BE110(B+), EC100(B+), CY110(O), EC110(A), MA102(A), BE102(B+), CS100(B), CS120(O)
+CHN17CS065  PH100(F), CY100(C), BE100(F), BE110(F), EE100(C), EC100(F), CY110(A+), EC110(O), MA102(P), BE102(A), CS100(F), CS120(A)
+CHN17CS066  CY100(C), BE110(B+), EC100(B), CY110(A+), EC110(O), MA102(F), BE102(B+), CS100(F), CS120(B)
+CHN17CS067  CY100(B), BE110(B), EC100(B+), CY110(A+), EC110(A+), MA102(B), BE102(A), CS100(B), CS120(B)
+CHN17CS068  CY100(B), BE110(B), EC100(A+), CY110(A+), EC110(O), MA102(B+), BE102(B+), CS100(C), CS120(B)
+CHN17CS069  CY100(B+), BE110(A+), EC100(O), CY110(O), EC110(O), MA102(B+), BE102(A+), CS100(B), CS120(B+)
+CHN17CS070  CY100(B+), BE110(A), EC100(O), CY110(O), EC110(A+), MA102(A), BE102(A), CS100(B), CS120(O)
+CHN17CS071  PH100(F), CY100(C), BE100(F), BE110(B), EC100(B), CY110(O), EC110(A), MA102(F), BE102(B+), CS100(F), CS120(A+)
+CHN17CS072  CY100(B), BE100(C), BE110(B), EC100(B+), CY110(A+), EC110(A+), MA102(C), BE102(B), CS100(C), CS120(B+)
+CHN17CS073  PH100(F), CY100(F), BE100(F), BE110(FE), EE100(F), EC100(F), CY110(I), EC110(I), MA102(F), BE102(B+), CS100(P), CS120(I)
+CHN17CS074  CY100(F), BE110(F), EC100(F), CY110(A+), EC110(A), MA102(F), BE102(B+), CS100(P), CS120(O)
+CHN17CS075  CY100(B), BE110(B+), EC100(B), CY110(O), EC110(O), MA102(A), BE102(B+), CS100(C), CS120(B)
+CHN17CS076  CY100(P), BE110(C), EC100(C), CY110(A+), EC110(A+), MA102(B), BE102(B+), CS100(F), CS120(O)
+CHN17CS077  CY100(B+), BE110(O), EC100(O), CY110(O), EC110(O), MA102(B+), BE102(A+), CS100(B+), CS120(O)
+CHN17CS078  PH100(F), CY100(F), BE110(Absent), EE100(F), EC100(C), CY110(B+), EC110(O), MA102(F), BE102(B), CS100(C), CS120(A)
+CHN17CS079  CY100(B+), BE110(O), EC100(A), CY110(O), EC110(O), MA102(B+), BE102(A), CS100(B+), CS120(A+)
+CHN17CS080  CY100(B), BE110(A+), EC100(B), CY110(O), EC110(A), MA102(B), BE102(A), CS100(B), CS120(O)
+CHN17CS081  CY100(B), BE110(B+), EE100(C), EC100(B), CY110(B), EC110(O), MA102(B), BE102(B+), CS100(B+), CS120(O)
+CHN17CS082  PH100(F), CY100(C), BE100(F), BE110(F), EC100(B), CY110(A+), EC110(O), MA102(F), BE102(B+), CS100(C), CS120(A)
+CHN17CS083  CY100(B), BE110(F), EC100(C), CY110(O), EC110(A+), MA102(A), BE102(B+), CS100(F), CS120(O)
+CHN17CS084  CY100(B), BE110(A), EC100(B+), CY110(A), EC110(O), MA102(C), BE102(A), CS100(B), CS120(O)
+CHN17CS085  CY100(B+), BE110(O), EC100(B+), CY110(O), EC110(O), MA102(B+), BE102(B+), CS100(F), CS120(O)
+CHN17CS086  PH100(F), CY100(C), BE100(C), BE110(A+), EC100(C), CY110(O), EC110(O), MA102(F), BE102(A), CS100(B), CS120(B+)
+CHN17CS087  CY100(B+), BE110(A), EC100(B), CY110(O), EC110(O), MA102(F), BE102(A), CS100(B), CS120(A)
+CHN17CS088  PH100(C), CY100(F), BE100(F), BE110(B+), EC100(B), CY110(A+), EC110(O), MA102(C), BE102(B+), CS100(C), CS120(O)
+CHN17CS089  CY100(B), BE110(A+), EE100(C), EC100(C), CY110(A+), EC110(A+), MA102(B+), BE102(B), CS100(B+), CS120(O)
+CHN17CS090  CY100(C), BE100(C), BE110(F), EC100(F), CY110(A), EC110(A+), MA102(F), BE102(B), CS100(B+), CS120(O)
+CHN17CS091  CY100(A), BE110(A), EC100(B+), CY110(O), EC110(A+), MA102(B+), BE102(A), CS100(B), CS120(A)
+CHN17CS092  CY100(B+), BE100(C), BE110(F), EC100(B+), CY110(A+), EC110(A+), MA102(B), BE102(B+), CS100(C), CS120(B)
+CHN17CS093  CY100(B+), BE110(A+), EC100(B), CY110(O), EC110(A+), MA102(A), BE102(A), CS100(B+), CS120(O)
+CHN17CS094  CY100(A+), BE110(O), EC100(A), CY110(O), EC110(O), MA102(A+), BE102(B+), CS100(O), CS120(O)
+CHN17CS095  CY100(O), BE110(O), EC100(A), CY110(O), EC110(O), MA102(B), BE102(O), CS100(B), CS120(O)
+CHN17CS096  CY100(F), BE110(A), EE100(F), EC100(B+), CY110(A+), EC110(O), MA102(C), BE102(B+), CS100(B+), CS120(O)
+CHN17CS097  CY100(A+), BE110(O), EC100(B+), CY110(O), EC110(O), MA102(B+), BE102(B+), CS100(A+), CS120(O)
+CHN17CS098  CY100(O), BE110(O), EC100(A+), CY110(O), EC110(O), MA102(O), BE102(A), CS100(B), CS120(B+)
+CHN17CS099  CY100(B+), BE110(A+), EE100(C), EC100(A+), CY110(A), EC110(A+), MA102(A), BE102(B+), CS100(B), CS120(A)
+CHN17CS100  CY100(B), BE110(B+), EC100(B+), CY110(O), EC110(O), MA102(C), BE102(A), CS100(F), CS120(O)
+CHN17CS101  CY100(B), BE110(B+), EC100(C), CY110(O), EC110(A+), MA102(C), BE102(B+), CS100(B), CS120(A+)
+CHN17CS102  CY100(B+), BE110(B+), EC100(B), CY110(A+), EC110(A+), MA102(C), BE102(B+), CS100(F), CS120(B+)
+CHN17CS103  CY100(FE), BE110(FE), EC100(FE), CY110(I), EC110(FE), MA102(FE), BE102(FE), CS100(FE), CS120(FE)
+CHN17CS104  CY100(B+), BE110(B+), EC100(B), CY110(A+), EC110(A+), MA102(C), BE102(A), CS100(B+), CS120(O)
+CHN17CS105  CY100(C), BE110(F), EC100(B+), CY110(A), EC110(A+), MA102(A), BE102(A), CS100(C), CS120(B+)
+CHN17CS106  CY100(B), BE100(C), BE110(F), EC100(C), CY110(A+), EC110(O), MA102(C), BE102(A), CS100(F), CS120(O)
+CHN17CS107  PH100(F), CY100(P), BE100(Absent), BE110(F), EC100(C), CY110(A), EC110(A+), MA102(F), BE102(B+), CS100(F), CS120(B)
+CHN17CS108  CY100(C), BE110(B+), EC100(B+), CY110(O), EC110(O), MA102(B+), BE102(B), CS100(P), CS120(B)
+CHN17CS109  PH100(F), CY100(F), BE100(F), BE110(F), EE100(F), EC100(F), CY110(A+), EC110(A), MA102(F), BE102(B), CS100(F), CS120(A)
+CHN17CS110  CY100(B+), BE110(B+), EC100(B+), CY110(O), EC110(A+), MA102(C), BE102(A), CS100(P), CS120(O)
+CHN17CS111  CY100(O), BE110(A+), EC100(A+), CY110(O), EC110(O), MA102(B+), BE102(B+), CS100(B+), CS120(O)
+CHN17CS112  CY100(A), BE110(A), EC100(O), CY110(A+), EC110(O), MA102(O), BE102(A), CS100(F), CS120(B)
+CHN17CS113  CY100(B), BE110(B+), EC100(C), CY110(A+), EC110(O), MA102(B), BE102(A), CS100(C), CS120(O)
+CHN17CS114  CY100(B+), BE110(A), EC100(A), CY110(A+), EC110(A+), MA102(B), BE102(A), CS100(B), CS120(O)
+CHN17CS115  CY100(B+), BE110(A+), EC100(F), CY110(A+), EC110(O), MA102(A+), BE102(A), CS100(B+), CS120(O)
+CHN17CS116  CY100(A+), BE110(B+), EC100(B+), CY110(A+), EC110(A), MA102(B+), BE102(B+), CS100(B), CS120(O)
+CHN17CS117  CY100(B+), BE110(B+), EC100(A+), CY110(O), EC110(O), MA102(A+), BE102(A+), CS100(B+), CS120(O)
+CHN17CS118  CY100(O), BE110(A+), EC100(O), CY110(O), EC110(O), MA102(O), BE102(A+), CS100(B), CS120(O)
+CHN17CS119  CY100(C), BE100(B), BE110(B+), EC100(F), CY110(A), EC110(O), MA102(B+), BE102(B+), CS100(B), CS120(O)
+CHN17CS120  CY100(C), BE100(F), BE110(F), EC100(B), CY110(A+), EC110(A+), MA102(F), BE102(B+), CS100(F), CS120(B) 
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste [K [K[K[K[K[K[Kcat[K[K[Kmv result_one_per_line.txtresult_CHN\(1\).txt result.txtt[K
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ mn[Kv result,[K.txt s2_result.txt
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(O)/ 10 /g' result.txtsresult.txt2result.txt_result.txt
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(O)/ 10 /g' s2_result.txt[C[1P[1@A[1@+[C[C[C[C[C[1P[1P[1@9[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(A+)/ 9 /g' s2_result.txt[C[1P[C[C[C[C[1P[1@8[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(A)/ 8 /g' s2_result.txt[1P[1@B[1@A+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+[C[C[C[C[1P[1@8[1@.[1@5[1P[1P[1@8[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ s[Ksed -i 's/(8)/ 8.5 /g' s2_result.txt[C[1P[1P[1P[1@B[1@+
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(B+)/ 8 /g' s2_result.txt[1P[1@7[C[1P
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(B)/ 7 /g' s2_result.txt[1@=[1P[1P[1@V[1P[1@C[C[C[C[C[1P[1@6
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(C)/ 6 /g' s2_result.txt[1P[1@5[1P[1@P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(P)/ 5 /g' s2_result.txt[1P[1@F[C[C[C[C[1P[1@0[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(F)/ 0 /g' s2_result.txt[1@E
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(FE)/ 0 /g' s2_result.txt[C[1P[1P[1@I
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ cat >s2_result.txt 
+^Z
+[1]+  Stopped                 cat > s2_result.txt
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt 
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ mv result_CHN\(1\).t[K[K[K[K[K[K[K[K[K[Kone[K[K[K[K[K[K[K[K[K[K[K[K[K^C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ grep --no-group-separator -A3 'CHN17CS' result.txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line..txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line.t[1Pxt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line.tx[1Pt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line.txt[K[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line.txt [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Plt_CHN\(1\). | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_perr_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cx | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one_per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ mv result_one_per_line.txt s2_result.txt
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ mv result_one_per_line.txt s2_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pcat >s2_result.txt sed -i 's/(I)/ 0 /g' s2_result.txt
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(I)/ 0 /g' s2_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(FE)/ 0 /g' s2_result.txt[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(F)/ 0 /g' s2_result.txt[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(P)/ 5 /g' s2_result.txtF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(C)/ 6 /g' s2_result.txtP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(B)/ 7 /g' s2_result.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(B+)/ 8 /g' s2_result.txt[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@8)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PA)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@.[1@5
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(A)/ 8.5 /g' s2_result.txt[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@8)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PA)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ sed -i 's/(A+)/ 9 /g' s2_result.txt[1@)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -i 's/(I)/ 0 /g' s2_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@8)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PA)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ pasten[K s2_result.txt 
+CHN17CS001  CY100 7 , BE110 8 , EC100 8 , CY110 10 , EC110 9 , MA102 8.5 , BE102 8.5 , CS100 8 , CS120 10 
+CHN17CS002  CY100 8 , BE110 8 , EC100 8.5 , CY110 8 , EC110 9 , MA102 8 , BE102 8.5 , CS100(Absent), CS120 8 
+CHN17CS003  CY100 6 , BE110 6 , EC100 7 , CY110 8 , EC110 9 , MA102 6 , BE102 8 , CS100 6 , CS120 6 
+CHN17CS004  CY100 8 , BE110 8.5 , EC100 8.5 , CY110 9 , EC110 10 , MA102 8.5 , BE102 8 , CS100 8 , CS120 10 
+CHN17CS005  CY100 7 , BE110 8.5 , EC100 8.5 , CY110 8.5 , EC110 10 , MA102 0 , BE102 8.5 , CS100 0 , CS120 7 
+CHN17CS006  CY100 9 , BE110 9 , EC100 10 , CY110 8.5 , EC110 8.5 , MA102 10 , BE102 8 , CS100 9 , CS120 10 
+CHN17CS007  CY100 7 , BE110 7 , EE100 7 , EC100 6 , CY110 8.5 , EC110 10 , MA102 0 , BE102 8 , CS100 6 , CS120 6 
+CHN17CS008  CY100 8 , BE110 8 , EC100 7 , CY110 8.5 , EC110 10 , MA102 6 , BE102 8 , CS100 8 , CS120 10 
+CHN17CS009  CY100 8 , BE110 7 , EC100 8.5 , CY110 7 , EC110 10 , MA102 8.5 , BE102 8.5 , CS100 0 , CS120 8 
+CHN17CS010  CY100 6 , BE110 7 , EC100 6 , CY110 7 , EC110 10 , MA102 6 , BE102 8 , CS100 6 , CS120 8 
+CHN17CS011  CY100 7 , BE110 10 , EC100 8 , CY110 9 , EC110 10 , MA102 8 , BE102 8.5 , CS100 9 , CS120 10 
+CHN17CS012  CY100 10 , BE110 10 , EC100 9 , CY110 10 , EC110 10 , MA102 8 , BE102 8.5 , CS100 8 , CS120 8 
+CHN17CS013  CY100 8 , BE110 8.5 , EC100 8 , CY110 8.5 , EC110 10 , MA102 8 , BE102 8.5 , CS100 9 , CS120 10 
+CHN17CS014  CY100 6 , BE100 5 , BE110 8 , EC100 7 , CY110 10 , EC110 10 , MA102 0 , BE102 8 , CS100 0 , CS120 8 
+CHN17CS015  CY100 8.5 , BE110 8.5 , EC100 8 , CY110 9 , EC110 9 , MA102 7 , BE102 8.5 , CS100 7 , CS120 7 
+CHN17CS016  CY100 7 , BE110 8.5 , EC100 7 , CY110 10 , EC110 9 , MA102 0 , BE102 8 , CS100 6 , CS120 7 
+CHN17CS017  CY100 8.5 , BE110 8.5 , EC100 8 , CY110 9 , EC110 9 , MA102 9 , BE102 9 , CS100 8 , CS120 10 
+CHN17CS018  PH100 0 , CY100 0 , BE110 7 , EC100 0 , CY110 8.5 , EC110 8.5 , MA102 0 , BE102 8.5 , CS100 0 , CS120 10 
+CHN17CS019  CY100 9 , BE110 8 , EC100 8.5 , CY110 10 , EC110 10 , MA102 9 , BE102 8.5 , CS100 8.5 , CS120 10 
+CHN17CS020  CY100 7 , BE110 9 , EC100 7 , CY110 10 , EC110 10 , MA102 6 , BE102 8 , CS100 7 , CS120 8 
+CHN17CS021  CY100 7 , BE110 7 , EC100 7 , CY110 9 , EC110 9 , MA102 7 , BE102 8.5 , CS100 8 , CS120 10 
+CHN17CS022  CY100 6 , BE100 0 , BE110 0 , EC100 0 , CY110 8.5 , EC110 8.5 , MA102 0 , BE102 7 , CS100 6 , CS120 8 
+CHN17CS023  CY100 0 , BE110 0 , EC100 0 , CY110 9 , EC110 8.5 , MA102 0 , BE102 9 , CS100 0 , CS120 8 
+CHN17CS024  CY100 8.5 , BE110 9 , EC100 9 , CY110 9 , EC110 10 , MA102 7 , BE102 9 , CS100 7 , CS120 10 
+CHN17CS025  CY100 8 , BE110 8 , EC100 8 , CY110 10 , EC110 10 , MA102 7 , BE102 8 , CS100 6 , CS120 7 
+CHN17CS026  CY100 7 , BE110 0 , EC100 7 , CY110 10 , EC110 10 , MA102 6 , BE102 8 , CS100 9 , CS120 10 
+CHN17CS027  CY100 8 , BE110 8 , EC100 7 , CY110 9 , EC110 8.5 , MA102 6 , BE102 8.5 , CS100 10 , CS120 10 
+CHN17CS028  CY100 8 , BE110 9 , EC100 8 , CY110 10 , EC110 10 , MA102 7 , BE102 8.5 , CS100 7 , CS120 9 
+CHN17CS029  PH100 0 , CY100 6 , BE100 0 , BE110 7 , EC100 0 , CY110 8.5 , EC110 8.5 , MA102 0 , BE102 8 , CS100 5 , CS120 10 
+CHN17CS030  CY100 9 , BE110 10 , EC100 8 , CY110 10 , EC110 10 , MA102 9 , BE102 8.5 , CS100 9 , CS120 10 
+CHN17CS031  CY100 8 , BE100 6 , BE110 8 , EC100 7 , CY110 8.5 , EC110 10 , MA102 0 , BE102 8.5 , CS100 7 , CS120 8 
+CHN17CS032  CY100 7 , BE110 8 , EC100 6 , CY110 9 , EC110 8.5 , MA102 0 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS033  CY100 7 , BE110 9 , EC100 8 , CY110 10 , EC110 9 , MA102 9 , BE102 8.5 , CS100 6 , CS120 9 
+CHN17CS034  CY100 8 , BE110 7 , EC100 7 , CY110 9 , EC110 9 , MA102 8 , BE102 9 , CS100 0 , CS120 10 
+CHN17CS035  CY100 6 , BE100 5 , BE110 7 , EC100 7 , CY110 8.5 , EC110 10 , MA102 0 , BE102 8.5 , CS100 0 , CS120 7 
+CHN17CS036  CY100 9 , BE110 10 , EC100 10 , CY110 10 , EC110 10 , MA102 9 , BE102 10 , CS100 8.5 , CS120 8 
+CHN17CS037  PH100 0 , CY100 5 , BE110 0 , EC100 0 , CY110 8.5 , EC110 9 , MA102 6 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS038  CY100 0 , BE110 0 , EC100 6 , CY110 8.5 , EC110 8.5 , MA102 0 , BE102 8 , CS100 0 , CS120 8 
+CHN17CS039  CY100 6 , BE110 10 , EC100 6 , CY110 8 , EC110 10 , MA102 7 , BE102 8.5 , CS100 7 , CS120 9 
+CHN17CS040  CY100 9 , BE110 10 , EC100 9 , CY110 10 , EC110 10 , MA102 10 , BE102 9 , CS100 8 , CS120 8 
+CHN17CS041  PH100 7 , CY100 8.5 , BE110 9 , EC100 7 , CY110 9 , EC110 9 , MA102 7 , BE102 9 , CS100 8 , CS120 10 
+CHN17CS042  PH100 0 , CY100 0 , BE110 8 , EC100 0 , CY110 8 , EC110 10 , MA102 0 , BE102 9 , CS100 7 , CS120 8 
+CHN17CS043  PH100 7 , CY100 7 , BE110 8.5 , EC100 7 , CY110 10 , EC110 9 , MA102 7 , BE102 9 , CS100 0 , CS120 7 
+CHN17CS044  CY100 8 , BE110 10 , EC100 8 , CY110 9 , EC110 9 , MA102 10 , BE102 8.5 , CS100 10 , CS120 10 
+CHN17CS045  PH100 6 , CY100 7 , BE110 0 , EC100 0 , CY110 9 , EC110 8.5 , MA102 0 , BE102 9 , CS100 0 , CS120 8.5 
+CHN17CS046  PH100 0 , CY100 6 , BE110 8 , EC100 7 , CY110 8.5 , EC110 9 , MA102 0 , BE102 8.5 , CS100 0 , CS120 8 
+CHN17CS047  PH100 7 , CY100 7 , BE100 0 , BE110 8 , EC100 8 , CY110 8.5 , EC110 8.5 , MA102 7 , BE102 8 , CS100 0 , CS120 8 
+CHN17CS048  CY100 8 , BE110 10 , EC100 8.5 , CY110 9 , EC110 10 , MA102 8 , BE102 9 , CS100 8 , CS120 10 
+CHN17CS049  CY100 10 , BE110 9 , EC100 9 , CY110 10 , EC110 10 , MA102 9 , BE102 10 , CS100 8 , CS120 10 
+CHN17CS050  CY100 7 , BE110 8.5 , EC100 8 , CY110 10 , EC110 9 , MA102 10 , BE102 8.5 , CS100 7 , CS120 8.5 
+CHN17CS051  CY100 6 , BE110 9 , EC100 8 , CY110 9 , EC110 8.5 , MA102 8 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS052  PH100 6 , CY100 6 , BE100 0 , BE110 7 , EC100 6 , CY110 9 , EC110 8.5 , MA102 6 , BE102 8 , CS100 7 , CS120 10 
+CHN17CS053  CY100 9 , BE110 9 , EC100 8 , CY110 10 , EC110 10 , MA102 10 , BE102 9 , CS100 7 , CS120 10 
+CHN17CS054  CY100 7 , BE100 8 , BE110 9 , EC100 8 , CY110 9 , EC110 10 , MA102 8 , BE102 8 , CS100 7 , CS120 10 
+CHN17CS055  CY100 6 , BE110 8 , EC100 6 , CY110 8.5 , EC110 8.5 , MA102 6 , BE102 8 , CS100 7 , CS120 10 
+CHN17CS056  CY100 7 , BE100 6 , BE110 8 , EC100 7 , CY110 8.5 , EC110 9 , MA102 0 , BE102 8 , CS100 6 , CS120 8 
+CHN17CS057  CY100 10 , BE110 10 , EC100 10 , CY110 10 , EC110 10 , MA102 8.5 , BE102 9 , CS100 10 , CS120 10 
+CHN17CS058  CY100 10 , BE110 10 , EC100 9 , CY110 10 , EC110 10 , MA102 9 , BE102 9 , CS100 8 , CS120 10 
+CHN17CS059  CY100 8 , BE110 0 , EC100 8 , CY110 9 , EC110 9 , MA102 8 , BE102 9 , CS100 7 , CS120 8.5 
+CHN17CS060  CY100 8 , BE100 8 , BE110 9 , EC100 8 , CY110 9 , EC110 10 , MA102 7 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS061  CY100 8 , BE110 8 , EC100 8.5 , CY110 10 , EC110 10 , MA102 8 , BE102 9 , CS100 8 , CS120 8.5 
+CHN17CS062  CY100 9 , BE110 8.5 , EC100 8.5 , CY110 9 , EC110 9 , MA102 8 , BE102 8 , CS100 8 , CS120 10 
+CHN17CS063  CY100 8 , BE110 8 , EC100 8.5 , CY110 10 , EC110 10 , MA102 8 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS064  CY100 8 , BE110 8 , EC100 8 , CY110 10 , EC110 8.5 , MA102 8.5 , BE102 8 , CS100 7 , CS120 10 
+CHN17CS065  PH100 0 , CY100 6 , BE100 0 , BE110 0 , EE100 6 , EC100 0 , CY110 9 , EC110 10 , MA102 5 , BE102 8.5 , CS100 0 , CS120 8.5 
+CHN17CS066  CY100 6 , BE110 8 , EC100 7 , CY110 9 , EC110 10 , MA102 0 , BE102 8 , CS100 0 , CS120 7 
+CHN17CS067  CY100 7 , BE110 7 , EC100 8 , CY110 9 , EC110 9 , MA102 7 , BE102 8.5 , CS100 7 , CS120 7 
+CHN17CS068  CY100 7 , BE110 7 , EC100 9 , CY110 9 , EC110 10 , MA102 8 , BE102 8 , CS100 6 , CS120 7 
+CHN17CS069  CY100 8 , BE110 9 , EC100 10 , CY110 10 , EC110 10 , MA102 8 , BE102 9 , CS100 7 , CS120 8 
+CHN17CS070  CY100 8 , BE110 8.5 , EC100 10 , CY110 10 , EC110 9 , MA102 8.5 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS071  PH100 0 , CY100 6 , BE100 0 , BE110 7 , EC100 7 , CY110 10 , EC110 8.5 , MA102 0 , BE102 8 , CS100 0 , CS120 9 
+CHN17CS072  CY100 7 , BE100 6 , BE110 7 , EC100 8 , CY110 9 , EC110 9 , MA102 6 , BE102 7 , CS100 6 , CS120 8 
+CHN17CS073  PH100 0 , CY100 0 , BE100 0 , BE110 0 , EE100 0 , EC100 0 , CY110 0 , EC110 0 , MA102 0 , BE102 8 , CS100 5 , CS120 0 
+CHN17CS074  CY100 0 , BE110 0 , EC100 0 , CY110 9 , EC110 8.5 , MA102 0 , BE102 8 , CS100 5 , CS120 10 
+CHN17CS075  CY100 7 , BE110 8 , EC100 7 , CY110 10 , EC110 10 , MA102 8.5 , BE102 8 , CS100 6 , CS120 7 
+CHN17CS076  CY100 5 , BE110 6 , EC100 6 , CY110 9 , EC110 9 , MA102 7 , BE102 8 , CS100 0 , CS120 10 
+CHN17CS077  CY100 8 , BE110 10 , EC100 10 , CY110 10 , EC110 10 , MA102 8 , BE102 9 , CS100 8 , CS120 10 
+CHN17CS078  PH100 0 , CY100 0 , BE110(Absent), EE100 0 , EC100 6 , CY110 8 , EC110 10 , MA102 0 , BE102 7 , CS100 6 , CS120 8.5 
+CHN17CS079  CY100 8 , BE110 10 , EC100 8.5 , CY110 10 , EC110 10 , MA102 8 , BE102 8.5 , CS100 8 , CS120 9 
+CHN17CS080  CY100 7 , BE110 9 , EC100 7 , CY110 10 , EC110 8.5 , MA102 7 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS081  CY100 7 , BE110 8 , EE100 6 , EC100 7 , CY110 7 , EC110 10 , MA102 7 , BE102 8 , CS100 8 , CS120 10 
+CHN17CS082  PH100 0 , CY100 6 , BE100 0 , BE110 0 , EC100 7 , CY110 9 , EC110 10 , MA102 0 , BE102 8 , CS100 6 , CS120 8.5 
+CHN17CS083  CY100 7 , BE110 0 , EC100 6 , CY110 10 , EC110 9 , MA102 8.5 , BE102 8 , CS100 0 , CS120 10 
+CHN17CS084  CY100 7 , BE110 8.5 , EC100 8 , CY110 8.5 , EC110 10 , MA102 6 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS085  CY100 8 , BE110 10 , EC100 8 , CY110 10 , EC110 10 , MA102 8 , BE102 8 , CS100 0 , CS120 10 
+CHN17CS086  PH100 0 , CY100 6 , BE100 6 , BE110 9 , EC100 6 , CY110 10 , EC110 10 , MA102 0 , BE102 8.5 , CS100 7 , CS120 8 
+CHN17CS087  CY100 8 , BE110 8.5 , EC100 7 , CY110 10 , EC110 10 , MA102 0 , BE102 8.5 , CS100 7 , CS120 8.5 
+CHN17CS088  PH100 6 , CY100 0 , BE100 0 , BE110 8 , EC100 7 , CY110 9 , EC110 10 , MA102 6 , BE102 8 , CS100 6 , CS120 10 
+CHN17CS089  CY100 7 , BE110 9 , EE100 6 , EC100 6 , CY110 9 , EC110 9 , MA102 8 , BE102 7 , CS100 8 , CS120 10 
+CHN17CS090  CY100 6 , BE100 6 , BE110 0 , EC100 0 , CY110 8.5 , EC110 9 , MA102 0 , BE102 7 , CS100 8 , CS120 10 
+CHN17CS091  CY100 8.5 , BE110 8.5 , EC100 8 , CY110 10 , EC110 9 , MA102 8 , BE102 8.5 , CS100 7 , CS120 8.5 
+CHN17CS092  CY100 8 , BE100 6 , BE110 0 , EC100 8 , CY110 9 , EC110 9 , MA102 7 , BE102 8 , CS100 6 , CS120 7 
+CHN17CS093  CY100 8 , BE110 9 , EC100 7 , CY110 10 , EC110 9 , MA102 8.5 , BE102 8.5 , CS100 8 , CS120 10 
+CHN17CS094  CY100 9 , BE110 10 , EC100 8.5 , CY110 10 , EC110 10 , MA102 9 , BE102 8 , CS100 10 , CS120 10 
+CHN17CS095  CY100 10 , BE110 10 , EC100 8.5 , CY110 10 , EC110 10 , MA102 7 , BE102 10 , CS100 7 , CS120 10 
+CHN17CS096  CY100 0 , BE110 8.5 , EE100 0 , EC100 8 , CY110 9 , EC110 10 , MA102 6 , BE102 8 , CS100 8 , CS120 10 
+CHN17CS097  CY100 9 , BE110 10 , EC100 8 , CY110 10 , EC110 10 , MA102 8 , BE102 8 , CS100 9 , CS120 10 
+CHN17CS098  CY100 10 , BE110 10 , EC100 9 , CY110 10 , EC110 10 , MA102 10 , BE102 8.5 , CS100 7 , CS120 8 
+CHN17CS099  CY100 8 , BE110 9 , EE100 6 , EC100 9 , CY110 8.5 , EC110 9 , MA102 8.5 , BE102 8 , CS100 7 , CS120 8.5 
+CHN17CS100  CY100 7 , BE110 8 , EC100 8 , CY110 10 , EC110 10 , MA102 6 , BE102 8.5 , CS100 0 , CS120 10 
+CHN17CS101  CY100 7 , BE110 8 , EC100 6 , CY110 10 , EC110 9 , MA102 6 , BE102 8 , CS100 7 , CS120 9 
+CHN17CS102  CY100 8 , BE110 8 , EC100 7 , CY110 9 , EC110 9 , MA102 6 , BE102 8 , CS100 0 , CS120 8 
+CHN17CS103  CY100 0 , BE110 0 , EC100 0 , CY110 0 , EC110 0 , MA102 0 , BE102 0 , CS100 0 , CS120 0 
+CHN17CS104  CY100 8 , BE110 8 , EC100 7 , CY110 9 , EC110 9 , MA102 6 , BE102 8.5 , CS100 8 , CS120 10 
+CHN17CS105  CY100 6 , BE110 0 , EC100 8 , CY110 8.5 , EC110 9 , MA102 8.5 , BE102 8.5 , CS100 6 , CS120 8 
+CHN17CS106  CY100 7 , BE100 6 , BE110 0 , EC100 6 , CY110 9 , EC110 10 , MA102 6 , BE102 8.5 , CS100 0 , CS120 10 
+CHN17CS107  PH100 0 , CY100 5 , BE100(Absent), BE110 0 , EC100 6 , CY110 8.5 , EC110 9 , MA102 0 , BE102 8 , CS100 0 , CS120 7 
+CHN17CS108  CY100 6 , BE110 8 , EC100 8 , CY110 10 , EC110 10 , MA102 8 , BE102 7 , CS100 5 , CS120 7 
+CHN17CS109  PH100 0 , CY100 0 , BE100 0 , BE110 0 , EE100 0 , EC100 0 , CY110 9 , EC110 8.5 , MA102 0 , BE102 7 , CS100 0 , CS120 8.5 
+CHN17CS110  CY100 8 , BE110 8 , EC100 8 , CY110 10 , EC110 9 , MA102 6 , BE102 8.5 , CS100 5 , CS120 10 
+CHN17CS111  CY100 10 , BE110 9 , EC100 9 , CY110 10 , EC110 10 , MA102 8 , BE102 8 , CS100 8 , CS120 10 
+CHN17CS112  CY100 8.5 , BE110 8.5 , EC100 10 , CY110 9 , EC110 10 , MA102 10 , BE102 8.5 , CS100 0 , CS120 7 
+CHN17CS113  CY100 7 , BE110 8 , EC100 6 , CY110 9 , EC110 10 , MA102 7 , BE102 8.5 , CS100 6 , CS120 10 
+CHN17CS114  CY100 8 , BE110 8.5 , EC100 8.5 , CY110 9 , EC110 9 , MA102 7 , BE102 8.5 , CS100 7 , CS120 10 
+CHN17CS115  CY100 8 , BE110 9 , EC100 0 , CY110 9 , EC110 10 , MA102 9 , BE102 8.5 , CS100 8 , CS120 10 
+CHN17CS116  CY100 9 , BE110 8 , EC100 8 , CY110 9 , EC110 8.5 , MA102 8 , BE102 8 , CS100 7 , CS120 10 
+CHN17CS117  CY100 8 , BE110 8 , EC100 9 , CY110 10 , EC110 10 , MA102 9 , BE102 9 , CS100 8 , CS120 10 
+CHN17CS118  CY100 10 , BE110 9 , EC100 10 , CY110 10 , EC110 10 , MA102 10 , BE102 9 , CS100 7 , CS120 10 
+CHN17CS119  CY100 6 , BE100 7 , BE110 8 , EC100 0 , CY110 8.5 , EC110 10 , MA102 8 , BE102 8 , CS100 7 , CS120 10 
+CHN17CS120  CY100 6 , BE100 0 , BE110 0 , EC100 7 , CY110 9 , EC110 9 , MA102 0 , BE102 8 , CS100 0 , CS120 7  
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ awk '{s=$3*4+$6*4+$9*4+$12*3+$15*3+$18*3+$21*1+$24*1+#27[K[K[K$27*1}{r=s/24}{print r}' result.tt[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K's2_result.txt >s2_sgpa.txt
+awk: 1: unexpected character '.'
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ awk '{s=$3*4+$6*4+$9*4+$12*3+$15*3+$18*3+$21*1+$24*1+$27*1}{r=s/24}{print r}'s2_result.txt >s2_sgpa.txt[1@ 
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_sgpa.txt
+8.375
+7.5625
+6.875
+8.6875
+6.95833
+9.16667
+7.14583
+7.97917
+7.79167
+6.95833
+8.6875
+9.35417
+8.54167
+6.875
+8.22917
+7
+8.66667
+3.64583
+9
+8.04167
+7.72917
+3.66667
+2.89583
+8.75
+8.25
+6.70833
+7.95833
+8.5625
+3.625
+9.27083
+7.5
+6.75
+8.47917
+7.70833
+6.54167
+9.5625
+3.91667
+3.79167
+7.8125
+9.45833
+8.20833
+4.25
+7.66667
+9.02083
+4.72917
+5.75
+6.375
+8.91667
+9.45833
+8.54167
+8.08333
+5.6875
+9.16667
+8.33333
+7.25
+7.14583
+9.77083
+9.58333
+6.9375
+8.47917
+8.64583
+8.66667
+8.64583
+8.41667
+2.75
+6.5
+7.72917
+8.08333
+9
+8.91667
+4.6875
+7.375
+0
+3.14583
+8.10417
+6.70833
+9.29167
+0
+8.97917
+8.08333
+7.45833
+3.75
+6.35417
+8.04167
+8.58333
+5.89583
+7.41667
+5
+7.625
+4.8125
+8.54167
+6.45833
+8.54167
+9.375
+9.25
+5.70833
+9.125
+9.5625
+8.125
+7.85417
+7.625
+7.5
+0
+7.9375
+6.52083
+5.89583
+0.833333
+7.95833
+0.729167
+8.10417
+9.25
+8.77083
+7.77083
+8.35417
+7.4375
+8.39583
+8.91667
+9.66667
+6.77083
+4.45833
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_sgpa.txtawk '{s=$3*4+$6*4+$9*4+$12*3+$15*3+$18*3+$21*1+$24*1+$27*1}{r=s/24}{print r}' s2_result.txt >s2_sgpa.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kawk '{s=$3*4+$6*4+$9*4+$12*3+$15*3+$18*3+$21*1+$24*1+$27*1}{r=s/24}{print r}' s2_result.txt >s2_sgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpaste s2_sgpa.txt[K[Kpaste s2_sgpa.txtawk '{s=$3*4+$6*4+$9*4+$12*3+$15*3+$18*3+$21*1+$24*1+$27*1}{r=s/24}{print r}' s2_result.txt >s2_sgpa.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[Kpaste s2_result.txt sed -i 's/(O)/ 10 /g' s2_result.txtA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Ppaste s2_result.txt [Kawk {print r}paste s2_sgpa.txt[Kpaste s2_sgpa.txt[4Pawk {print r}[Kpaste s2_result.txt sed -i 's/(O)/ 10 /g' s2_result.txtA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@mv result_one_per_line.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result_CHN\(1\).txt | tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result_one__per_line.txt[A]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ paste s2_result.txt [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kawk '{s=$3*4+$6*4+$9*4+$12*3+$15*3+$18*3+$21*1+$24*1+#27[K[K[K$27*1}{r=s/24}{print r}' result.tt[K[K[K[K[K[K[Ksult.txt[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[1P[1@$[1@3
+awk: cannot open result.txt (No such file or directory)
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ awk '{print $3}' result.txtsresult.txt2result.txt_result.txt
+7
+8
+6
+8
+7
+9
+7
+8
+8
+6
+7
+10
+8
+6
+8.5
+7
+8.5
+0
+9
+7
+7
+6
+0
+8.5
+8
+7
+8
+8
+0
+9
+8
+7
+7
+8
+6
+9
+0
+0
+6
+9
+7
+0
+7
+8
+6
+0
+7
+8
+10
+7
+6
+6
+9
+7
+6
+7
+10
+10
+8
+8
+8
+9
+8
+8
+0
+6
+7
+7
+8
+8
+0
+7
+0
+0
+7
+5
+8
+0
+8
+7
+7
+0
+7
+7
+8
+0
+8
+6
+7
+6
+8.5
+8
+8
+9
+10
+0
+9
+10
+8
+7
+7
+8
+0
+8
+6
+7
+0
+6
+0
+8
+10
+8.5
+7
+8
+8
+9
+8
+10
+6
+6
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ awk '{print $3}' s2_result.txt[3Presult.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kjoin [K[K[K[K[Kexit
+exit
+There are stopped jobs.
+]0;nirmal@lenovo: ~/Desktop/Nirmal[01;32mnirmal@lenovo[00m:[01;34m~/Desktop/Nirmal[00m$ exit
+exit
+
+Script done on 2019-03-14 00:13:20+0530
