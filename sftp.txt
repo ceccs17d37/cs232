@@ -1,0 +1,35 @@
+s4d2@ceclab2-H110M-S2:~$ sftp cs17d37@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d37@192.168.0.30's password: 
+Permission denied, please try again.
+cs17d37@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> mkdir cs232
+sftp> put s4d.txt
+Uploading s4d.txt to /home/cs17d37/s4d.txt
+s4d.txt                                       100% 3181     1.9MB/s   00:00    
+sftp> cd cs232
+sftp> put s4d2/Nirmal/ceccs17d37.28.02.19.txt
+stat s4d2/Nirmal/ceccs17d37.28.02.19.txt: No such file or directory
+sftp> put s4d2/Nirmal/cat.txt
+stat s4d2/Nirmal/cat.txt: No such file or directory
+sftp> put home/s4d2/Nirmal/cat.txt
+stat home/s4d2/Nirmal/cat.txt: No such file or directory
+sftp> put Nirmal/cat.txt
+Uploading Nirmal/cat.txt to /home/cs17d37/cs232/cat.txt
+Nirmal/cat.txt                                100%   23     1.6KB/s   00:00    
+sftp> ls
+cat.txt  
+sftp> put s4d_result.txt
+stat s4d_result.txt: No such file or directory
+sftp> Nirmal/s4d_result.txt
+Invalid command.
+sftp> put Nirmal/s4d_result.txt
+Uploading Nirmal/s4d_result.txt to /home/cs17d37/cs232/s4d_result.txt
+Nirmal/s4d_result.txt                                                                                        100% 6884     3.1MB/s   00:00    
+sftp> quit
+

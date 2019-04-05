@@ -1,0 +1,81 @@
+Script started on Monday 01 April 2019 10:06:09 AM IST
+]0;s4d2@ceclab2-Veriton-Series: ~s4d2@ceclab2-Veriton-Series:~$ ifconig
+No command 'ifconig' found, did you mean:
+ Command 'ifconfig' from package 'net-tools' (main)
+ifconig: command not found
+]0;s4d2@ceclab2-Veriton-Series: ~s4d2@ceclab2-Veriton-Series:~$ su - cec-lab2
+Password: 
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ sudo apt-get install net-tools
+[sudo] password for cec-lab2: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 1%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... 0%Reading state information... Done
+net-tools is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 653 not upgraded.
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ ifconfig
+Command 'ifconfig' is available in '/sbin/ifconfig'
+The command could not be located because '/sbin' is not included in the PATH environment variable.
+This is most likely caused by the lack of administrative privileges associated with your user account.
+ifconfig: command not found
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ /sbin/ifconfig
+eth0      Link encap:Ethernet  HWaddr 10:78:d2:e0:ac:f8  
+          inet addr:192.168.0.97  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::1278:d2ff:fee0:acf8/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:22714 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2829 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:4613128 (4.6 MB)  TX bytes:455972 (455.9 KB)
+          Interrupt:20 Memory:fbbc0000-fbbe0000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:252 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:252 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:32829 (32.8 KB)  TX bytes:32829 (32.8 KB)
+
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ ifconfig -d[Ka[1@s[1@b[1P[1P[1@/[1@s[1@b[C[1@i[1@n[1@/
+eth0      Link encap:Ethernet  HWaddr 10:78:d2:e0:ac:f8  
+          inet addr:192.168.0.97  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::1278:d2ff:fee0:acf8/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:23038 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2830 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:4639284 (4.6 MB)  TX bytes:456077 (456.0 KB)
+          Interrupt:20 Memory:fbbc0000-fbbe0000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:252 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:252 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:32829 (32.8 KB)  TX bytes:32829 (32.8 KB)
+
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ /sbin[K[K[K[K[K/sbin/ifconfig -a[K[K<in[K[K[Kinterface[K[K[K[K[K[K[K[K[Keth0
+eth0      Link encap:Ethernet  HWaddr 10:78:d2:e0:ac:f8  
+          inet addr:192.168.0.97  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::1278:d2ff:fee0:acf8/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:23243 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2834 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:4666927 (4.6 MB)  TX bytes:456615 (456.6 KB)
+          Interrupt:20 Memory:fbbc0000-fbbe0000 
+
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ /sbin/ifconfig eth0 down
+SIOCSIFFLAGS: Operation not permitted
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ sudo apt[K[K[K""[K[K!!
+sudo /sbin/ifconfig eth0 down
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ sudo [K[K[K[K[Ksudo /sbin/ifconfig eth0 down[K[K[K[Kup
+]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ ev[Kxit
+logout
+]0;s4d2@ceclab2-Veriton-Series: ~s4d2@ceclab2-Veriton-Series:~$ exit
+exit
+
+Script done on Monday 01 April 2019 10:11:08 AM IST
