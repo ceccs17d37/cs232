@@ -14,17 +14,39 @@ usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
  \  \  / (.-' |(  (   )|  |  |(.-'
   `' `'   `--'` `-'`-' '  '  ` `--'
 cs17d37@192.168.0.30's password: 
-ceccs17d37.28.02.19.txt                         0%    0     0.0KB/s   --:-- ETAceccs17d37.28.02.19.txt                       100%  156KB   2.5MB/s   00:00    
-ceccs17d37.14.03.19.b.txt                       0%    0     0.0KB/s   --:-- ETAceccs17d37.14.03.19.b.txt                     100% 9239   463.3KB/s   00:00    
-nikil.txt                                       0%    0     0.0KB/s   --:-- ETAnikil.txt                                     100%   32     2.3KB/s   00:00    
-ceccs17d37.14.02.19.txt                         0%    0     0.0KB/s   --:-- ETAceccs17d37.14.02.19.txt                       100%  105KB   1.8MB/s   00:00    
-ceccs17d37.07.02.19.txt                         0%    0     0.0KB/s   --:-- ETAceccs17d37.07.02.19.txt                       100% 8192   316.4KB/s   00:00    
-cat.txt                                         0%    0     0.0KB/s   --:-- ETAcat.txt                                       100%   23    33.1KB/s   00:00    
-s4d_student_details.txt                         0%    0     0.0KB/s   --:-- ETAs4d_student_details.txt                       100% 3181   188.1KB/s   00:00    
-s4d_result.txt                                  0%    0     0.0KB/s   --:-- ETAs4d_result.txt                                100% 6884   823.1KB/s   00:00    
-nirmal.txt                                      0%    0     0.0KB/s   --:-- ETAnirmal.txt                                    100%   31    43.1KB/s   00:00    
-nikil                                           0%    0     0.0KB/s   --:-- ETAnikil                                         100%   31    47.2KB/s   00:00    
-ceccs17d37.28.02.19                             0%    0     0.0KB/s   --:-- ETAceccs17d37.28.02.19                           100%   56KB   2.0MB/s   00:00    
+
+ceccs17d37.28.02.19.txt                         0%    0     0.0KB/s   --:-- ETA
+ceccs17d37.28.02.19.txt                       100%  156KB   2.5MB/s   00:00    
+
+ceccs17d37.14.03.19.b.txt                       0%    0     0.0KB/s   --:-- ETA
+ceccs17d37.14.03.19.b.txt                     100% 9239   463.3KB/s   00:00    
+
+nikil.txt                                       0%    0     0.0KB/s   --:-- ETA
+nikil.txt                                     100%   32     2.3KB/s   00:00    
+
+ceccs17d37.14.02.19.txt                         0%    0     0.0KB/s   --:-- ETA
+ceccs17d37.14.02.19.txt                       100%  105KB   1.8MB/s   00:00    
+
+ceccs17d37.07.02.19.txt                         0%    0     0.0KB/s   --:-- ETA
+ceccs17d37.07.02.19.txt                       100% 8192   316.4KB/s   00:00    
+
+cat.txt                                         0%    0     0.0KB/s   --:-- ETA
+cat.txt                                       100%   23    33.1KB/s   00:00    
+
+s4d_student_details.txt                         0%    0     0.0KB/s   --:-- ETA
+s4d_student_details.txt                       100% 3181   188.1KB/s   00:00    
+
+s4d_result.txt                                  0%    0     0.0KB/s   --:-- ETA
+s4d_result.txt                                100% 6884   823.1KB/s   00:00    
+
+nirmal.txt                                      0%    0     0.0KB/s   --:-- ETA
+nirmal.txt                                    100%   31    43.1KB/s   00:00    
+
+nikil                                           0%    0     0.0KB/s   --:-- ETA
+nikil                                         100%   31    47.2KB/s   00:00    
+
+ceccs17d37.28.02.19                             0%    0     0.0KB/s   --:-- ETA
+ceccs17d37.28.02.19                           100%   56KB   2.0MB/s   00:00    
 ]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ scp -r Nirmal/ cs17d37@192.168.0.30:~/test[1P cs17d37@192.168.0.30:~/test
 .
               |
@@ -41,9 +63,11 @@ cs17d37@192.168.0.30's password:
  \  \  / (.-' |(  (   )|  |  |(.-'
   `' `'   `--'` `-'`-' '  '  ` `--'
 cs17d32@192.168.0.30's password: 
-Permission denied, please try again.
+Permission denied, please try again.
+
 cs17d32@192.168.0.30's password: 
-Permission denied, please try again.
+Permission denied, please try again.
+
 cs17d32@192.168.0.30's password: 
 rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(638) [sender=3.1.2]
 ]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$  rsync -avzh Nirmal/ cs17d32@192.168.0.30:[1P@192.168.0.30:7@192.168.0.30:
@@ -69,14 +93,18 @@ s4d_student_details.txt
 
 sent 35.24K bytes  received 228 bytes  4.73K bytes/sec
 total size is 352.20K  speedup is 9.93
-]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ ssh s17d4[K[K[K[K[K[K[K[K[Krsync -avzh Nirmal/ cs17d32@192.168.0.30:[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp -r Nirmal cs17d37@192.168.0.30:~/test/ cs17d37@192.168.0.30:~/test[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K -r Nirmal/cs17d37@192.168.0.30:~/test[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Psh cs17d37@192.168.0.30[10Pcript ssh.txtsh cs17d37@192.168.0.30
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ ssh s17d4[K[K[K[K[K[K[K[K[Krsync -avzh Nirmal/ cs17d32@192.168.0.30:
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp -r Nirmal cs17d37@192.168.0.30:~/test/ cs17d37@192.168.0.30:~/test
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K -r Nirmal/cs17d37@192.168.0.30:~/test
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Psh cs17d37@192.168.0.30[10Pcript ssh.txtsh cs17d37@192.168.0.30
 .
               |
 .  .    . .-. | .-..-. .--.--. .-.
  \  \  / (.-' |(  (   )|  |  |(.-'
   `' `'   `--'` `-'`-' '  '  ` `--'
 cs17d37@192.168.0.30's password: 
-Permission denied, please try again.
+Permission denied, please try again.
+
 cs17d37@192.168.0.30's password: 
 Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
 
@@ -85,13 +113,15 @@ Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
 278 packages can be updated.
 0 updates are security updates.
 
-Last login: Thu Mar 28 11:43:14 2019 from 192.168.0.78
+Last login: Thu Mar 28 11:43:14 2019 from 192.168.0.78
+
 $ ls
 cat.txt			 ceccs17d37.14.03.19.b.txt  cs232	      nikil.txt       s4d_student_details.txt
 ceccs17d37.07.02.19.txt  ceccs17d37.28.02.19	    examples.desktop  nirmal.txt      s4d.txt
 ceccs17d37.14.02.19.txt  ceccs17d37.28.02.19.txt    nikil	      s4d_result.txt  test
 $ exit
-Connection to 192.168.0.30 closed.
+Connection to 192.168.0.30 closed.
+
 ]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ exit
 exit
 There are stopped jobs.
