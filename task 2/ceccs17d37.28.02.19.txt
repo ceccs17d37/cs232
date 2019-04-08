@@ -1,0 +1,950 @@
+Script started on Thursday 28 February 2019 09:36:29 PM IST
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ caqt[K[Kt s4d_result.txt
+CHN17CS004 ABIN THOMAS  MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(9), CS110(10)
+CHN17CS006 ADERSH A  MA101(10), PH100(B+), BE100(9), BE10105(B), BE103(9), EE100(B+), PH110(9), EE110(B+), CS110(9)
+CHN17CS013 ALEN ANTO ABRAHAM  MA101(F), PH100(B), BE100(B), BE10105(A), BE103(A), EE100(B), PH110(9), EE110(A), CS110(10) 
+CHN17CS017 AMAL XAVIER  MA101(B+), PH100(A), BE100(B+), BE10105(9), BE103(9), EE100(A), PH110(9), EE110(A), CS110(10)
+CHN17CS018 AMRITA AJITH  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+), CS110(A)
+CHN17CS019 ANAKHA B M  MA101(A), PH100(9), BE100(B+), BE10105(9), BE103(A), EE100(A), PH110(10), EE110(B+), CS110(10)
+CHN17CS021 ANIJA J  MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(9), EE110(B+), CS110(10)
+CHN17CS022 ANJALI LAKSHMI  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B), CS110(A)
+CHN17CS023 ANUJA DEV R  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(9), CS110(B+)
+CHN17CS024 ANUROSE K THOMAS  MA101(B+), PH100(9), BE100(10), BE10105(9), BE103(9), EE100(B+), PH110(9), EE110(B+), CS110(10)
+CHN17CS027 ARCHANA ROSE BIJU  MA101(A), PH100(B), BE100(B), BE10105(B+), BE103(9), EE100(B), PH110(A), EE110(9), CS110(10)
+CHN17CS029 ARUN R  MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS030 ASHISH MATHEW JOHN  MA101(9), PH100(A), BE100(9), BE10105(9), BE103(B+), EE100(B+), PH110(10), EE110(9), CS110(10)
+CHN17CS032 ASWIN K  MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A), CS110(9)
+CHN17CS034 ATHIRA SURESH  MA101(B), PH100(B+), BE100(B), BE10105(F), BE103(9), EE100(C), PH110(A), EE110(B+), CS110(9)
+CHN17CS037 AZHAR K  MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A), CS110(10)
+CHN17CS038 BAMISHA A  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(A), CS110(A)
+CHN17CS041 DARSANA M  MA101(B+), PH100(F), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A), CS110(10)
+CHN17CS044 DEEPAK R  MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE103(10), EE100(B), PH110(9), EE110(B+), CS110(10)
+CHN17CS045 DEVIKA KRISHNA  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(9), EE100(C), PH110(B+), EE110(B+), CS110(9)
+CHN17CS048 GEORGI K JOSEPH  MA101(B), PH100(B), BE100(10), BE10105(9), BE103(10), EE100(A), PH110(A), EE110(B+), CS110(10)
+CHN17CS051 GOUTHAM G  MA101(B), PH100(B), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(9), EE110(B), CS110(10)
+CHN17CS052 GOVIND J NAIR  MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE110(9), CS110(10)
+CHN17CS053 GRESHMA SHAJI  MA101(10), PH100(B+), BE100(A), BE10105(B), BE103(A), EE100(9), PH110(10), EE110(9), CS110(10)
+CHN17CS054 HARIDEV S  MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+), CS110(10)
+CHN17CS055 HARIKRISHNAN S KARTHA  MA101(F), PH100(C), BE100(B), BE10105(C), BE103(A), EE100(C), PH110(A), EE110(B+), CS110(10)
+CHN17CS057 JATHIN SURESH  MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(9), EE100(B+), PH110(9), EE110(A), CS110(10)
+CHN17CS058 JENY SUSAN RAJAN  MA101(B), PH100(B+), BE100(B), BE10105(B+), BE103(9), EE100(B), PH110(A), EE110(B+), CS110(10)
+CHN17CS063 JOEL JOSEPH  MA101(B+), PH100(B+), BE100(B), BE10105(B), BE103(9), EE100(B), PH110(A), EE110(A), CS110(10)
+CHN17CS064 JOHAN SAM THOMAS  MA101(B+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(10), EE110(B), CS110(10)
+CHN17CS070 LENA GRACE JOSEPH  MA101(A), PH100(A), BE100(B+), BE10105(C), BE103(10), EE100(B), PH110(10), EE110(9), CS110(9)
+CHN17CS071 LINTA MARIAM DANIEL  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(C), EE100(C), PH110(B+), EE110(B+), CS110(10)
+CHN17CS074 MEGHA ELSA SHIBU  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(FE), PH110(B+), EE110(B+), CS110(9)
+CHN17CS076 MOHAMED SHAHIL K  MA101(F), PH100(B), BE100(C), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS077 MONIYA MOHAN  MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(9), EE110(B+), CS110(10)
+CHN17CS080 NIKHIL M TOMY  MA101(B+), PH100(B), BE100(B+), BE10105(9), BE103(B+), EE100(B), PH110(A), EE110(9), CS110(10)
+CHN17CS083 NIRMAL K GEORGE MATHEW MA101(B), PH100(C), BE100(C), BE10105(B), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(10)
+CHN17CS085 NITHYA VENUGOPAL  MA101(A), PH100(10), BE100(10), BE10105(B), BE103(B+), EE100(B+), PH110(9), EE110(B+), CS110(10) 
+CHN17CS088 N S ATHUL ANAND MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(10)
+CHN17CS090 PRANAY PRINCE  MA101(F), PH100(P), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(9), CS110(10)
+CHN17CS093 RITHU MARIA JOSE  MA101(9), PH100(C), BE100(B+), BE10105(9), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(9)
+CHN17CS094 RITTY THOMAS  MA101(B+), PH100(B+), BE100(B), BE10105(9), BE103(B+), EE100(B+), PH110(9), EE110(B+), CS110(10)
+CHN17CS095 ROSHIN ROY  MA101(C), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B+), PH110(9), EE110(10), CS110(10)
+CHN17CS097 SACHIN R  MA101(A), PH100(A), BE100(9), BE10105(10), BE103(A), EE100(A), PH110(9), EE110(B+), CS110(10)
+CHN17CS100 SAYOOJ K  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B), EE100(B), PH110(9), EE110(9), CS110(A)
+CHN17CS101 SHABEERDAS C  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(P), PH110(9), EE110(9), CS110(10)
+CHN17CS104 SHYLESH S  MA101(B), PH100(B), BE100(C), BE10105(9), BE103(9), EE100(C), PH110(9), EE110(B+), CS110(10)
+CHN17CS106 SNEHA JAYAN  MA101(B), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(P), PH110(B+), EE110(9), CS110(10)
+CHN17CS109 SREELAL S  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(A), CS110(B+)
+CHN17CS110 STEPHEN THOMAS  MA101(C), PH100(B+), BE100(C), BE10105(C), BE103(A), EE100(B), PH110(A), EE110(B+), CS110(A)
+CHN17CS111 SURYA MERIN PHILIP  MA101(B), PH100(B+), BE100(F), BE10105(9), BE103(9), EE100(B), PH110(9), EE110(B+), CS110(9)
+CHN17CS113 THWALIB NAZIR  MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(9), CS110(B+)
+CHN17CS114 VARGHESE P P  MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(9), EE110(B+), CS110(10)
+CHN17CS115 VIMAL K R  MA101(B), PH100(B+), BE100(A), BE10105(B+), BE103(A), EE100(B), PH110(10), EE110(9), CS110(10)
+CHN17CS116 VISAKH SEBASTIAN  MA101(F), PH100(A), BE100(B), BE10105(A), BE103(9), EE100(B), PH110(10), EE110(B+), CS110(10)
+CHN17CS117 VISHAK P V  MA101(B+), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(10), EE110(9), CS110(10)
+CHN17CS118 VISHNU V  MA101(B), PH100(A), BE100(A), BE10105(C), BE103(B+), EE100(B+), PH110(10), EE110(10), CS110(10)
+CHN17CS119 VYSHAKH R  MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(9), EE110(B+), CS110(10)
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txtscript ceccs17d37.14.02.19clear[Kd[Klearpdftotext -result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pcd Downloads[7Plearpdftotext -result_CHN.pdf result.txt[3@(1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat s4d_result.txtlear[Kpdftotext -nopgbrk result.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pcat s4d_result2.txtjoin s4.txt result.txt >s4d_result2.txt[2@' [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcat s4d_result.txtjoin s4.txt result.txt >s4d_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcat s4d_result.txtjoin s4.txt result.txt >s4d_result2.txt[2@' [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcat s4d_result2.txtpdftotext -nopgbrk result.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kat s4d_result.txtexit[Kpdftotext -result_CHN(1).pdf result.txt[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kd Downloadspdftotext -result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kd[Klearscript ceccs17d37.14.02.19[8Pcat s4d_result.txt[Ks3ed[K[K[Ked -i[K[K[K[K[K[Kcat s4d_result.txtscript ceccs17d37.14.02.19clear[Kd[Klearpdftotext -result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pcd Downloads[7Plearpdftotext -result_CHN.pdf result.txt[3@(1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat s4d_result.txtlear[Kpdftotext -nopgbrk result.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pcat s4d_result2.txtjoin s4.txt result.txt >s4d_result2.txt[2@' [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcat s4d_result.txtjoin s4.txt result.txt >s4d_result.txt[K[8Pca[C[C[C[C[C[C[C[C[C[C[C[C[38@sed 's/\ CHN/\nCHN/g' result_no_newline >[C[C[C[C[C[C[C[C[C[C[C[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result.txt[Kgrep --no-group-separator -A3 'CHN17CS' chnresult.txt > result_CS_Only.txt[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat chnresult.txt[K[Kpdftotext result_CHN.pdf chnresult.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep "CHN" s4d.txt | awk '{print $3,$4,$5,$6,$7}' | sed 's/L*//' > s4.txt[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat s4d.txt[Kd Downloadsgrep "CHN" s4d.txt | awk '{print $3,$4,$5,$6,$7}' | sed 's/L*//'[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kgrep "CHN" s4d.txt | awk '{print $3}, {print $4}' | sed 's/L*//'[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kgrep "CHN" s4d.txt | awk '{print $3}' ' {print $4}' | sed 's/L*//'[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C >\[C[C[C[C[C[C[C $4}' [K[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kgrep "CHN" s4d.txt | awk '{print $3} | awk '{print $4}'  $4}' [K[3P[C[C[C[K | awk '{print $3}' [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16@_student_details[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat s4d.txt[K[6Plearut -d' ' -f2 s4d[6Pat s4d.txt[6Plearpaste s4d.txtls[Kcd Downloadsls[Kocate s4d.txt[9Pclearsearch s4d.txt[9Pclearsearch S4.txtu - cec-lab2CEC-LAB2do routegate 192.168.0.2route[Kifconfig[3Pclearifconfigsu - cec-lab2[2Pceclab2do updatedb - cec-lab2exit[Kping google.comgrep i nikil.txtls[Kexitjoin <(sort -f nikil.txt) <(sort -f  nirmal.txt)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pnikil.txt nirmal.txt[8P nirmalpaste nikil.txt nirmal.txt[7Pcut -d' ' -f1 nikil[26@echo "Keecheril Chengannur Alappuzha" >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat nirmal.txt[K[2Phelo.txtls[Krm 302[4Pls-lrm pgls -ln -s 302s nikil.txt -l-ll[Kn -s nikil.txt pgpwd[Krint=nirmal.txt:agrep a nikil.txt -c[2Prmal.txt[8Pls ni* -dpaste nikil.txt nirmal.txtll[Kunalias llll[Kalias ll='ls -l'll[Ks nir* -d[3P-ltr[K[Kcat > nikil.txtls[Kscript ceccs17d37.07.02.19clear[K[3Pllalias ll='ls -l'll[Kpaste nirmal.txt[9Pls -ltr[K[K[Kcat > nirmal.txtls[K
+cat.txt                  ceccs17d37.14.02.19.txt  [0m[01;34mDesktop[0m    [01;34mDownloads[0m         [01;34mMusic[0m  nikil.txt   [01;34mPictures[0m  s4d_result.txt  [01;34mVideos[0m
+ceccs17d37.07.02.19.txt  ceccs17d37.28.02.19.txt  [01;34mDocuments[0m  examples.desktop  nikil  nirmal.txt  [01;34mPublic[0m    [01;34mTemplates[0m
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ lscat s4d_result.txtscript ceccs17d37.14.02.19clear[Kd[Klearpdftotext -result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pcd Downloads[7Plearpdftotext -result_CHN.pdf result.txt[3@(1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksed -i's/(0)/ (10)/g' s4d_result.txt
+sed: -e expression #1, char 14: unterminated `s' command
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i's/(0)/ (10)/g' s4d_result.txt[C[1P[1P[2@^[[2@[C[1P[1P[2P[1P[C[1P[1@1[1@0[1P
+sed: -e expression #1, char 14: unterminated `s' command
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i's/(0)/10/g' s4d_result.txt[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ +[Ksed -i 's/(0)/10/g' s4d_result.txt[K]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(0)/10/g' s4d_result.txt[1P[1@A[C[C[C[C[1P[1P[1@8[1@.[1@5
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(A)/8.5/g' s4d_result.txt[1P[1P[1P[1@B[1@+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed[K[K[Ksed -i 's/(B+)/8/g' s4d_result.txt[C[1P[1@7[1P
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(B)/7/g' s4d_result.txt[C[C[1P[1@6[C[1P[1@c[1P[1@C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(C)/6/g' s4d_result.txt[C[1P[1@5[1P[1@P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(P)/5/g' s4d_result.txt[1P[1@0[1P[1@F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(F)/0/g' s4d_result.txt[C[C[1@E[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(FE)/0/g' s4d_result.txt[1P[1P[1@I[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat[K[K[Ksed -i 's/(I)/0/g' s4d_result.txt[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P0)/10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@ (10)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcat s4d_result.txtscript ceccs17d37.14.02.19[8Pcat s4d_result.txt
+CHN17CS004 ABIN THOMAS  MA1017, PH1006, BE1008, BE101056, BE1038, EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS006 ADERSH A  MA101(10), PH1008, BE100(9), BE101057, BE103(9), EE1008, PH110(9), EE1108, CS110(9)
+CHN17CS013 ALEN ANTO ABRAHAM  MA1010, PH1007, BE1007, BE101058.5, BE1038.5, EE1007, PH110(9), EE1108.5, CS110(10) 
+CHN17CS017 AMAL XAVIER  MA1018, PH1008.5, BE1008, BE10105(9), BE103(9), EE1008.5, PH110(9), EE1108.5, CS110(10)
+CHN17CS018 AMRITA AJITH  MA1010, PH1000, BE1000, BE101050, BE1036, EE1005, PH1108, EE1108, CS1108.5
+CHN17CS019 ANAKHA B M  MA1018.5, PH100(9), BE1008, BE10105(9), BE1038.5, EE1008.5, PH110(10), EE1108, CS110(10)
+CHN17CS021 ANIJA J  MA1017, PH1006, BE1007, BE101058, BE1037, EE1006, PH110(9), EE1108, CS110(10)
+CHN17CS022 ANJALI LAKSHMI  MA1010, PH1006, BE1000, BE101050, BE1030, EE1000, PH1108, EE1107, CS1108.5
+CHN17CS023 ANUJA DEV R  MA1010, PH1006, BE1000, BE101050, BE1038, EE1006, PH1108, EE110(9), CS1108
+CHN17CS024 ANUROSE K THOMAS  MA1018, PH100(9), BE100(10), BE10105(9), BE103(9), EE1008, PH110(9), EE1108, CS110(10)
+CHN17CS027 ARCHANA ROSE BIJU  MA1018.5, PH1007, BE1007, BE101058, BE103(9), EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS029 ARUN R  MA1010, PH1000, BE1000, BE101056, BE1038, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS030 ASHISH MATHEW JOHN  MA101(9), PH1008.5, BE100(9), BE10105(9), BE1038, EE1008, PH110(10), EE110(9), CS110(10)
+CHN17CS032 ASWIN K  MA1010, PH1006, BE1006, BE101058, BE1038, EE1006, PH1108, EE1108.5, CS110(9)
+CHN17CS034 ATHIRA SURESH  MA1017, PH1008, BE1007, BE101050, BE103(9), EE1006, PH1108.5, EE1108, CS110(9)
+CHN17CS037 AZHAR K  MA1010, PH1000, BE1006, BE101058, BE1038, EE1006, PH1108.5, EE1108.5, CS110(10)
+CHN17CS038 BAMISHA A  MA1010, PH1000, BE1000, BE101050, BE1037, EE1006, PH1108, EE1108.5, CS1108.5
+CHN17CS041 DARSANA M  MA1018, PH1000, BE1007, BE101058, BE1038.5, EE1006, PH1108, EE1108.5, CS110(10)
+CHN17CS044 DEEPAK R  MA1018, PH1007, BE1008, BE101058, BE103(10), EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS045 DEVIKA KRISHNA  MA1010, PH1000, BE1000, BE101050, BE103(9), EE1006, PH1108, EE1108, CS110(9)
+CHN17CS048 GEORGI K JOSEPH  MA1017, PH1007, BE100(10), BE10105(9), BE103(10), EE1008.5, PH1108.5, EE1108, CS110(10)
+CHN17CS051 GOUTHAM G  MA1017, PH1007, BE1008, BE101058, BE1038.5, EE1007, PH110(9), EE1107, CS110(10)
+CHN17CS052 GOVIND J NAIR  MA1010, PH1000, BE1000, BE101058, BE1038, EE1005, PH1108, EE110(9), CS110(10)
+CHN17CS053 GRESHMA SHAJI  MA101(10), PH1008, BE1008.5, BE101057, BE1038.5, EE100(9), PH110(10), EE110(9), CS110(10)
+CHN17CS054 HARIDEV S  MA1017, PH1007, BE1000, BE101058, BE1038, EE1007, PH1108, EE1108, CS110(10)
+CHN17CS055 HARIKRISHNAN S KARTHA  MA1010, PH1006, BE1007, BE101056, BE1038.5, EE1006, PH1108.5, EE1108, CS110(10)
+CHN17CS057 JATHIN SURESH  MA1018, PH1008, BE1008, BE101058.5, BE103(9), EE1008, PH110(9), EE1108.5, CS110(10)
+CHN17CS058 JENY SUSAN RAJAN  MA1017, PH1008, BE1007, BE101058, BE103(9), EE1007, PH1108.5, EE1108, CS110(10)
+CHN17CS063 JOEL JOSEPH  MA1018, PH1008, BE1007, BE101057, BE103(9), EE1007, PH1108.5, EE1108.5, CS110(10)
+CHN17CS064 JOHAN SAM THOMAS  MA1018, PH1008, BE1007, BE101058, BE1037, EE1006, PH110(10), EE1107, CS110(10)
+CHN17CS070 LENA GRACE JOSEPH  MA1018.5, PH1008.5, BE1008, BE101056, BE103(10), EE1007, PH110(10), EE110(9), CS110(9)
+CHN17CS071 LINTA MARIAM DANIEL  MA1010, PH1000, BE1000, BE101057, BE1036, EE1006, PH1108, EE1108, CS110(10)
+CHN17CS074 MEGHA ELSA SHIBU  MA1010, PH1000, BE1000, BE101050, BE1038, EE1000, PH1108, EE1108, CS110(9)
+CHN17CS076 MOHAMED SHAHIL K  MA1010, PH1007, BE1006, BE101050, BE1036, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS077 MONIYA MOHAN  MA1018, PH1008.5, BE1008, BE101058.5, BE1038, EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS080 NIKHIL M TOMY  MA1018, PH1007, BE1008, BE10105(9), BE1038, EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS083 NIRMAL K GEORGE MATHEW MA1017, PH1006, BE1006, BE101057, BE1037, EE1006, PH1108.5, EE1108, CS110(10)
+CHN17CS085 NITHYA VENUGOPAL  MA1018.5, PH100(10), BE100(10), BE101057, BE1038, EE1008, PH110(9), EE1108, CS110(10) 
+CHN17CS088 N S ATHUL ANAND MA1010, PH1000, BE1000, BE101058, BE1038, EE1006, PH1108, EE1108, CS110(10)
+CHN17CS090 PRANAY PRINCE  MA1010, PH1005, BE1000, BE101058, BE1038, EE1006, PH1108, EE110(9), CS110(10)
+CHN17CS093 RITHU MARIA JOSE  MA101(9), PH1006, BE1008, BE10105(9), BE1037, EE1006, PH1108.5, EE1108, CS110(9)
+CHN17CS094 RITTY THOMAS  MA1018, PH1008, BE1007, BE10105(9), BE1038, EE1008, PH110(9), EE1108, CS110(10)
+CHN17CS095 ROSHIN ROY  MA1016, PH1008, BE1008, BE101058, BE1038.5, EE1008, PH110(9), EE110(10), CS110(10)
+CHN17CS097 SACHIN R  MA1018.5, PH1008.5, BE100(9), BE10105(10), BE1038.5, EE1008.5, PH110(9), EE1108, CS110(10)
+CHN17CS100 SAYOOJ K  MA1010, PH1007, BE1007, BE101057, BE1037, EE1007, PH110(9), EE110(9), CS1108.5
+CHN17CS101 SHABEERDAS C  MA1010, PH1007, BE1007, BE101057, BE1038, EE1005, PH110(9), EE110(9), CS110(10)
+CHN17CS104 SHYLESH S  MA1017, PH1007, BE1006, BE10105(9), BE103(9), EE1006, PH110(9), EE1108, CS110(10)
+CHN17CS106 SNEHA JAYAN  MA1017, PH1006, BE1000, BE101050, BE1037, EE1005, PH1108, EE110(9), CS110(10)
+CHN17CS109 SREELAL S  MA1010, PH1000, BE1000, BE101050, BE1036, EE1000, PH1108, EE1108.5, CS1108
+CHN17CS110 STEPHEN THOMAS  MA1016, PH1008, BE1006, BE101056, BE1038.5, EE1007, PH1108.5, EE1108, CS1108.5
+CHN17CS111 SURYA MERIN PHILIP  MA1017, PH1008, BE1000, BE10105(9), BE103(9), EE1007, PH110(9), EE1108, CS110(9)
+CHN17CS113 THWALIB NAZIR  MA1010, PH1007, BE1007, BE101056, BE1038, EE1006, PH1108, EE110(9), CS1108
+CHN17CS114 VARGHESE P P  MA1017, PH1008, BE1007, BE101056, BE1038, EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS115 VIMAL K R  MA1017, PH1008, BE1008.5, BE101058, BE1038.5, EE1007, PH110(10), EE110(9), CS110(10)
+CHN17CS116 VISAKH SEBASTIAN  MA1010, PH1008.5, BE1007, BE101058.5, BE103(9), EE1007, PH110(10), EE1108, CS110(10)
+CHN17CS117 VISHAK P V  MA1018, PH1007, BE1007, BE101058, BE1038.5, EE1006, PH110(10), EE110(9), CS110(10)
+CHN17CS118 VISHNU V  MA1017, PH1008.5, BE1008.5, BE101056, BE1038, EE1008, PH110(10), EE110(10), CS110(10)
+CHN17CS119 VYSHAKH R  MA1010, PH1006, BE1000, BE101057, BE1037, EE1006, PH110(9), EE1108, CS110(10)
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ [K]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [1@ [1P
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(I)/ 0/g' s4d_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(FE)/ 0/g' s4d_result.txt[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(F)/ 0/g' s4d_result.txt[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(P)/ 5/g' s4d_result.txtF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(C)/ 6/g' s4d_result.txtP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(B)/ 7/g' s4d_result.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(B+)/ 8/g' s4d_result.txt[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P0)/10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@ (10)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(A)/ 8.5/g' s4d_result.txt[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P0)/10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(0)/ 10/g' s4d_result.txt[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P0)/10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@ (10)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcat s4d_result.txtscript ceccs17d37.14.02.19clear[Kd[Klearpdftotext -result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pcd Downloads[7Plear[K[K[K[K[Kpdftotext -result_CHN.pdf result.txt[3@(1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat s4d_result.txtlear[Kpdftotext -nopgbrk result.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kat s4d_result.txtexit[Kpdftotext -result_CHN(1).pdf result.txt[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcd Downloadspdftotext -result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kd[Klearscript ceccs17d37.14.02.19[8Pcat s4d_result.txtls[Ksed -i's/(0)/ (10)/g' s4d_result.txt[3P10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16@sed -i 's/(I)/ 0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1@9[1P[1@A[1@+
+\]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ \[Kcat s4d_result.txt
+CHN17CS004 ABIN THOMAS  MA1017, PH1006, BE1008, BE101056, BE1038, EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS006 ADERSH A  MA101(10), PH1008, BE100(9), BE101057, BE103(9), EE1008, PH110(9), EE1108, CS110(9)
+CHN17CS013 ALEN ANTO ABRAHAM  MA1010, PH1007, BE1007, BE101058.5, BE1038.5, EE1007, PH110(9), EE1108.5, CS110(10) 
+CHN17CS017 AMAL XAVIER  MA1018, PH1008.5, BE1008, BE10105(9), BE103(9), EE1008.5, PH110(9), EE1108.5, CS110(10)
+CHN17CS018 AMRITA AJITH  MA1010, PH1000, BE1000, BE101050, BE1036, EE1005, PH1108, EE1108, CS1108.5
+CHN17CS019 ANAKHA B M  MA1018.5, PH100(9), BE1008, BE10105(9), BE1038.5, EE1008.5, PH110(10), EE1108, CS110(10)
+CHN17CS021 ANIJA J  MA1017, PH1006, BE1007, BE101058, BE1037, EE1006, PH110(9), EE1108, CS110(10)
+CHN17CS022 ANJALI LAKSHMI  MA1010, PH1006, BE1000, BE101050, BE1030, EE1000, PH1108, EE1107, CS1108.5
+CHN17CS023 ANUJA DEV R  MA1010, PH1006, BE1000, BE101050, BE1038, EE1006, PH1108, EE110(9), CS1108
+CHN17CS024 ANUROSE K THOMAS  MA1018, PH100(9), BE100(10), BE10105(9), BE103(9), EE1008, PH110(9), EE1108, CS110(10)
+CHN17CS027 ARCHANA ROSE BIJU  MA1018.5, PH1007, BE1007, BE101058, BE103(9), EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS029 ARUN R  MA1010, PH1000, BE1000, BE101056, BE1038, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS030 ASHISH MATHEW JOHN  MA101(9), PH1008.5, BE100(9), BE10105(9), BE1038, EE1008, PH110(10), EE110(9), CS110(10)
+CHN17CS032 ASWIN K  MA1010, PH1006, BE1006, BE101058, BE1038, EE1006, PH1108, EE1108.5, CS110(9)
+CHN17CS034 ATHIRA SURESH  MA1017, PH1008, BE1007, BE101050, BE103(9), EE1006, PH1108.5, EE1108, CS110(9)
+CHN17CS037 AZHAR K  MA1010, PH1000, BE1006, BE101058, BE1038, EE1006, PH1108.5, EE1108.5, CS110(10)
+CHN17CS038 BAMISHA A  MA1010, PH1000, BE1000, BE101050, BE1037, EE1006, PH1108, EE1108.5, CS1108.5
+CHN17CS041 DARSANA M  MA1018, PH1000, BE1007, BE101058, BE1038.5, EE1006, PH1108, EE1108.5, CS110(10)
+CHN17CS044 DEEPAK R  MA1018, PH1007, BE1008, BE101058, BE103(10), EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS045 DEVIKA KRISHNA  MA1010, PH1000, BE1000, BE101050, BE103(9), EE1006, PH1108, EE1108, CS110(9)
+CHN17CS048 GEORGI K JOSEPH  MA1017, PH1007, BE100(10), BE10105(9), BE103(10), EE1008.5, PH1108.5, EE1108, CS110(10)
+CHN17CS051 GOUTHAM G  MA1017, PH1007, BE1008, BE101058, BE1038.5, EE1007, PH110(9), EE1107, CS110(10)
+CHN17CS052 GOVIND J NAIR  MA1010, PH1000, BE1000, BE101058, BE1038, EE1005, PH1108, EE110(9), CS110(10)
+CHN17CS053 GRESHMA SHAJI  MA101(10), PH1008, BE1008.5, BE101057, BE1038.5, EE100(9), PH110(10), EE110(9), CS110(10)
+CHN17CS054 HARIDEV S  MA1017, PH1007, BE1000, BE101058, BE1038, EE1007, PH1108, EE1108, CS110(10)
+CHN17CS055 HARIKRISHNAN S KARTHA  MA1010, PH1006, BE1007, BE101056, BE1038.5, EE1006, PH1108.5, EE1108, CS110(10)
+CHN17CS057 JATHIN SURESH  MA1018, PH1008, BE1008, BE101058.5, BE103(9), EE1008, PH110(9), EE1108.5, CS110(10)
+CHN17CS058 JENY SUSAN RAJAN  MA1017, PH1008, BE1007, BE101058, BE103(9), EE1007, PH1108.5, EE1108, CS110(10)
+CHN17CS063 JOEL JOSEPH  MA1018, PH1008, BE1007, BE101057, BE103(9), EE1007, PH1108.5, EE1108.5, CS110(10)
+CHN17CS064 JOHAN SAM THOMAS  MA1018, PH1008, BE1007, BE101058, BE1037, EE1006, PH110(10), EE1107, CS110(10)
+CHN17CS070 LENA GRACE JOSEPH  MA1018.5, PH1008.5, BE1008, BE101056, BE103(10), EE1007, PH110(10), EE110(9), CS110(9)
+CHN17CS071 LINTA MARIAM DANIEL  MA1010, PH1000, BE1000, BE101057, BE1036, EE1006, PH1108, EE1108, CS110(10)
+CHN17CS074 MEGHA ELSA SHIBU  MA1010, PH1000, BE1000, BE101050, BE1038, EE1000, PH1108, EE1108, CS110(9)
+CHN17CS076 MOHAMED SHAHIL K  MA1010, PH1007, BE1006, BE101050, BE1036, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS077 MONIYA MOHAN  MA1018, PH1008.5, BE1008, BE101058.5, BE1038, EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS080 NIKHIL M TOMY  MA1018, PH1007, BE1008, BE10105(9), BE1038, EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS083 NIRMAL K GEORGE MATHEW MA1017, PH1006, BE1006, BE101057, BE1037, EE1006, PH1108.5, EE1108, CS110(10)
+CHN17CS085 NITHYA VENUGOPAL  MA1018.5, PH100(10), BE100(10), BE101057, BE1038, EE1008, PH110(9), EE1108, CS110(10) 
+CHN17CS088 N S ATHUL ANAND MA1010, PH1000, BE1000, BE101058, BE1038, EE1006, PH1108, EE1108, CS110(10)
+CHN17CS090 PRANAY PRINCE  MA1010, PH1005, BE1000, BE101058, BE1038, EE1006, PH1108, EE110(9), CS110(10)
+CHN17CS093 RITHU MARIA JOSE  MA101(9), PH1006, BE1008, BE10105(9), BE1037, EE1006, PH1108.5, EE1108, CS110(9)
+CHN17CS094 RITTY THOMAS  MA1018, PH1008, BE1007, BE10105(9), BE1038, EE1008, PH110(9), EE1108, CS110(10)
+CHN17CS095 ROSHIN ROY  MA1016, PH1008, BE1008, BE101058, BE1038.5, EE1008, PH110(9), EE110(10), CS110(10)
+CHN17CS097 SACHIN R  MA1018.5, PH1008.5, BE100(9), BE10105(10), BE1038.5, EE1008.5, PH110(9), EE1108, CS110(10)
+CHN17CS100 SAYOOJ K  MA1010, PH1007, BE1007, BE101057, BE1037, EE1007, PH110(9), EE110(9), CS1108.5
+CHN17CS101 SHABEERDAS C  MA1010, PH1007, BE1007, BE101057, BE1038, EE1005, PH110(9), EE110(9), CS110(10)
+CHN17CS104 SHYLESH S  MA1017, PH1007, BE1006, BE10105(9), BE103(9), EE1006, PH110(9), EE1108, CS110(10)
+CHN17CS106 SNEHA JAYAN  MA1017, PH1006, BE1000, BE101050, BE1037, EE1005, PH1108, EE110(9), CS110(10)
+CHN17CS109 SREELAL S  MA1010, PH1000, BE1000, BE101050, BE1036, EE1000, PH1108, EE1108.5, CS1108
+CHN17CS110 STEPHEN THOMAS  MA1016, PH1008, BE1006, BE101056, BE1038.5, EE1007, PH1108.5, EE1108, CS1108.5
+CHN17CS111 SURYA MERIN PHILIP  MA1017, PH1008, BE1000, BE10105(9), BE103(9), EE1007, PH110(9), EE1108, CS110(9)
+CHN17CS113 THWALIB NAZIR  MA1010, PH1007, BE1007, BE101056, BE1038, EE1006, PH1108, EE110(9), CS1108
+CHN17CS114 VARGHESE P P  MA1017, PH1008, BE1007, BE101056, BE1038, EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS115 VIMAL K R  MA1017, PH1008, BE1008.5, BE101058, BE1038.5, EE1007, PH110(10), EE110(9), CS110(10)
+CHN17CS116 VISAKH SEBASTIAN  MA1010, PH1008.5, BE1007, BE101058.5, BE103(9), EE1007, PH110(10), EE1108, CS110(10)
+CHN17CS117 VISHAK P V  MA1018, PH1007, BE1007, BE101058, BE1038.5, EE1006, PH110(10), EE110(9), CS110(10)
+CHN17CS118 VISHNU V  MA1017, PH1008.5, BE1008.5, BE101056, BE1038, EE1008, PH110(10), EE110(10), CS110(10)
+CHN17CS119 VYSHAKH R  MA1010, PH1006, BE1000, BE101057, BE1037, EE1006, PH110(9), EE1108, CS110(10)
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16@sed -i 's/(I)/ 0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcat s4d_result.txt[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(A+)/ 9 /g' s4d_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(0)/ 10 /g' s4d_result.txtA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(A)/ 8.5/g' s4d_result.txt0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(A)/ 8.5 /g' s4d_result.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(B+)/ 8 /g' s4d_result.txt[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(B)/ 7 /g' s4d_result.txt[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(C)/ 6 /g' s4d_result.txtB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [1PF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@P)/ 5 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@P)/ 5 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(P)/ 5 /g' s4d_result.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(F)/ 0 /g' s4d_result.txtP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(FE)/ 0 /g' s4d_result.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@sed -i 's/(I)/0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16@sed -i 's/(I)/ 0/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt
+CHN17CS004 ABIN THOMAS  MA1017, PH1006, BE1008, BE101056, BE1038, EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS006 ADERSH A  MA101(10), PH1008, BE100(9), BE101057, BE103(9), EE1008, PH110(9), EE1108, CS110(9)
+CHN17CS013 ALEN ANTO ABRAHAM  MA1010, PH1007, BE1007, BE101058.5, BE1038.5, EE1007, PH110(9), EE1108.5, CS110(10) 
+CHN17CS017 AMAL XAVIER  MA1018, PH1008.5, BE1008, BE10105(9), BE103(9), EE1008.5, PH110(9), EE1108.5, CS110(10)
+CHN17CS018 AMRITA AJITH  MA1010, PH1000, BE1000, BE101050, BE1036, EE1005, PH1108, EE1108, CS1108.5
+CHN17CS019 ANAKHA B M  MA1018.5, PH100(9), BE1008, BE10105(9), BE1038.5, EE1008.5, PH110(10), EE1108, CS110(10)
+CHN17CS021 ANIJA J  MA1017, PH1006, BE1007, BE101058, BE1037, EE1006, PH110(9), EE1108, CS110(10)
+CHN17CS022 ANJALI LAKSHMI  MA1010, PH1006, BE1000, BE101050, BE1030, EE1000, PH1108, EE1107, CS1108.5
+CHN17CS023 ANUJA DEV R  MA1010, PH1006, BE1000, BE101050, BE1038, EE1006, PH1108, EE110(9), CS1108
+CHN17CS024 ANUROSE K THOMAS  MA1018, PH100(9), BE100(10), BE10105(9), BE103(9), EE1008, PH110(9), EE1108, CS110(10)
+CHN17CS027 ARCHANA ROSE BIJU  MA1018.5, PH1007, BE1007, BE101058, BE103(9), EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS029 ARUN R  MA1010, PH1000, BE1000, BE101056, BE1038, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS030 ASHISH MATHEW JOHN  MA101(9), PH1008.5, BE100(9), BE10105(9), BE1038, EE1008, PH110(10), EE110(9), CS110(10)
+CHN17CS032 ASWIN K  MA1010, PH1006, BE1006, BE101058, BE1038, EE1006, PH1108, EE1108.5, CS110(9)
+CHN17CS034 ATHIRA SURESH  MA1017, PH1008, BE1007, BE101050, BE103(9), EE1006, PH1108.5, EE1108, CS110(9)
+CHN17CS037 AZHAR K  MA1010, PH1000, BE1006, BE101058, BE1038, EE1006, PH1108.5, EE1108.5, CS110(10)
+CHN17CS038 BAMISHA A  MA1010, PH1000, BE1000, BE101050, BE1037, EE1006, PH1108, EE1108.5, CS1108.5
+CHN17CS041 DARSANA M  MA1018, PH1000, BE1007, BE101058, BE1038.5, EE1006, PH1108, EE1108.5, CS110(10)
+CHN17CS044 DEEPAK R  MA1018, PH1007, BE1008, BE101058, BE103(10), EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS045 DEVIKA KRISHNA  MA1010, PH1000, BE1000, BE101050, BE103(9), EE1006, PH1108, EE1108, CS110(9)
+CHN17CS048 GEORGI K JOSEPH  MA1017, PH1007, BE100(10), BE10105(9), BE103(10), EE1008.5, PH1108.5, EE1108, CS110(10)
+CHN17CS051 GOUTHAM G  MA1017, PH1007, BE1008, BE101058, BE1038.5, EE1007, PH110(9), EE1107, CS110(10)
+CHN17CS052 GOVIND J NAIR  MA1010, PH1000, BE1000, BE101058, BE1038, EE1005, PH1108, EE110(9), CS110(10)
+CHN17CS053 GRESHMA SHAJI  MA101(10), PH1008, BE1008.5, BE101057, BE1038.5, EE100(9), PH110(10), EE110(9), CS110(10)
+CHN17CS054 HARIDEV S  MA1017, PH1007, BE1000, BE101058, BE1038, EE1007, PH1108, EE1108, CS110(10)
+CHN17CS055 HARIKRISHNAN S KARTHA  MA1010, PH1006, BE1007, BE101056, BE1038.5, EE1006, PH1108.5, EE1108, CS110(10)
+CHN17CS057 JATHIN SURESH  MA1018, PH1008, BE1008, BE101058.5, BE103(9), EE1008, PH110(9), EE1108.5, CS110(10)
+CHN17CS058 JENY SUSAN RAJAN  MA1017, PH1008, BE1007, BE101058, BE103(9), EE1007, PH1108.5, EE1108, CS110(10)
+CHN17CS063 JOEL JOSEPH  MA1018, PH1008, BE1007, BE101057, BE103(9), EE1007, PH1108.5, EE1108.5, CS110(10)
+CHN17CS064 JOHAN SAM THOMAS  MA1018, PH1008, BE1007, BE101058, BE1037, EE1006, PH110(10), EE1107, CS110(10)
+CHN17CS070 LENA GRACE JOSEPH  MA1018.5, PH1008.5, BE1008, BE101056, BE103(10), EE1007, PH110(10), EE110(9), CS110(9)
+CHN17CS071 LINTA MARIAM DANIEL  MA1010, PH1000, BE1000, BE101057, BE1036, EE1006, PH1108, EE1108, CS110(10)
+CHN17CS074 MEGHA ELSA SHIBU  MA1010, PH1000, BE1000, BE101050, BE1038, EE1000, PH1108, EE1108, CS110(9)
+CHN17CS076 MOHAMED SHAHIL K  MA1010, PH1007, BE1006, BE101050, BE1036, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS077 MONIYA MOHAN  MA1018, PH1008.5, BE1008, BE101058.5, BE1038, EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS080 NIKHIL M TOMY  MA1018, PH1007, BE1008, BE10105(9), BE1038, EE1007, PH1108.5, EE110(9), CS110(10)
+CHN17CS083 NIRMAL K GEORGE MATHEW MA1017, PH1006, BE1006, BE101057, BE1037, EE1006, PH1108.5, EE1108, CS110(10)
+CHN17CS085 NITHYA VENUGOPAL  MA1018.5, PH100(10), BE100(10), BE101057, BE1038, EE1008, PH110(9), EE1108, CS110(10) 
+CHN17CS088 N S ATHUL ANAND MA1010, PH1000, BE1000, BE101058, BE1038, EE1006, PH1108, EE1108, CS110(10)
+CHN17CS090 PRANAY PRINCE  MA1010, PH1005, BE1000, BE101058, BE1038, EE1006, PH1108, EE110(9), CS110(10)
+CHN17CS093 RITHU MARIA JOSE  MA101(9), PH1006, BE1008, BE10105(9), BE1037, EE1006, PH1108.5, EE1108, CS110(9)
+CHN17CS094 RITTY THOMAS  MA1018, PH1008, BE1007, BE10105(9), BE1038, EE1008, PH110(9), EE1108, CS110(10)
+CHN17CS095 ROSHIN ROY  MA1016, PH1008, BE1008, BE101058, BE1038.5, EE1008, PH110(9), EE110(10), CS110(10)
+CHN17CS097 SACHIN R  MA1018.5, PH1008.5, BE100(9), BE10105(10), BE1038.5, EE1008.5, PH110(9), EE1108, CS110(10)
+CHN17CS100 SAYOOJ K  MA1010, PH1007, BE1007, BE101057, BE1037, EE1007, PH110(9), EE110(9), CS1108.5
+CHN17CS101 SHABEERDAS C  MA1010, PH1007, BE1007, BE101057, BE1038, EE1005, PH110(9), EE110(9), CS110(10)
+CHN17CS104 SHYLESH S  MA1017, PH1007, BE1006, BE10105(9), BE103(9), EE1006, PH110(9), EE1108, CS110(10)
+CHN17CS106 SNEHA JAYAN  MA1017, PH1006, BE1000, BE101050, BE1037, EE1005, PH1108, EE110(9), CS110(10)
+CHN17CS109 SREELAL S  MA1010, PH1000, BE1000, BE101050, BE1036, EE1000, PH1108, EE1108.5, CS1108
+CHN17CS110 STEPHEN THOMAS  MA1016, PH1008, BE1006, BE101056, BE1038.5, EE1007, PH1108.5, EE1108, CS1108.5
+CHN17CS111 SURYA MERIN PHILIP  MA1017, PH1008, BE1000, BE10105(9), BE103(9), EE1007, PH110(9), EE1108, CS110(9)
+CHN17CS113 THWALIB NAZIR  MA1010, PH1007, BE1007, BE101056, BE1038, EE1006, PH1108, EE110(9), CS1108
+CHN17CS114 VARGHESE P P  MA1017, PH1008, BE1007, BE101056, BE1038, EE1007, PH110(9), EE1108, CS110(10)
+CHN17CS115 VIMAL K R  MA1017, PH1008, BE1008.5, BE101058, BE1038.5, EE1007, PH110(10), EE110(9), CS110(10)
+CHN17CS116 VISAKH SEBASTIAN  MA1010, PH1008.5, BE1007, BE101058.5, BE103(9), EE1007, PH110(10), EE1108, CS110(10)
+CHN17CS117 VISHAK P V  MA1018, PH1007, BE1007, BE101058, BE1038.5, EE1006, PH110(10), EE110(9), CS110(10)
+CHN17CS118 VISHNU V  MA1017, PH1008.5, BE1008.5, BE101056, BE1038, EE1008, PH110(10), EE110(10), CS110(10)
+CHN17CS119 VYSHAKH R  MA1010, PH1006, BE1000, BE101057, BE1037, EE1006, PH110(9), EE1108, CS110(10)
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@0
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(0)/ 0 /g' s4d_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1@0[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(0)/ 0 /g' s4d_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@5C)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(5)/ 5 /g' s4d_result.txt[1P[1@0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@6
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(6)/ 6 /g' s4d_result.txt[1P)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@7[1P[1@7
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(7)/ 7 /g' s4d_result.txt[1P[1@8[1P[1@8
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(8)/ 8 /g' s4d_result.txt[1@.[1@5[1@.[1@5
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(8.5)/ 8.5 /g' s4d_result.txt[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@9[1P[1@9
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(9)/ 9 /g' s4d_result.txt[1P[1@1[1@0[1P[1@1[1@0
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt 
+CHN17CS004 ABIN THOMAS  MA1017, PH1006, BE1008, BE101056, BE1038, EE1007, PH1108.5, EE110 9 , CS110 10 
+CHN17CS006 ADERSH A  MA101 10 , PH1008, BE100 9 , BE101057, BE103 9 , EE1008, PH110 9 , EE1108, CS110 9 
+CHN17CS013 ALEN ANTO ABRAHAM  MA1010, PH1007, BE1007, BE101058.5, BE1038.5, EE1007, PH110 9 , EE1108.5, CS110 10  
+CHN17CS017 AMAL XAVIER  MA1018, PH1008.5, BE1008, BE10105 9 , BE103 9 , EE1008.5, PH110 9 , EE1108.5, CS110 10 
+CHN17CS018 AMRITA AJITH  MA1010, PH1000, BE1000, BE101050, BE1036, EE1005, PH1108, EE1108, CS1108.5
+CHN17CS019 ANAKHA B M  MA1018.5, PH100 9 , BE1008, BE10105 9 , BE1038.5, EE1008.5, PH110 10 , EE1108, CS110 10 
+CHN17CS021 ANIJA J  MA1017, PH1006, BE1007, BE101058, BE1037, EE1006, PH110 9 , EE1108, CS110 10 
+CHN17CS022 ANJALI LAKSHMI  MA1010, PH1006, BE1000, BE101050, BE1030, EE1000, PH1108, EE1107, CS1108.5
+CHN17CS023 ANUJA DEV R  MA1010, PH1006, BE1000, BE101050, BE1038, EE1006, PH1108, EE110 9 , CS1108
+CHN17CS024 ANUROSE K THOMAS  MA1018, PH100 9 , BE100 10 , BE10105 9 , BE103 9 , EE1008, PH110 9 , EE1108, CS110 10 
+CHN17CS027 ARCHANA ROSE BIJU  MA1018.5, PH1007, BE1007, BE101058, BE103 9 , EE1007, PH1108.5, EE110 9 , CS110 10 
+CHN17CS029 ARUN R  MA1010, PH1000, BE1000, BE101056, BE1038, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS030 ASHISH MATHEW JOHN  MA101 9 , PH1008.5, BE100 9 , BE10105 9 , BE1038, EE1008, PH110 10 , EE110 9 , CS110 10 
+CHN17CS032 ASWIN K  MA1010, PH1006, BE1006, BE101058, BE1038, EE1006, PH1108, EE1108.5, CS110 9 
+CHN17CS034 ATHIRA SURESH  MA1017, PH1008, BE1007, BE101050, BE103 9 , EE1006, PH1108.5, EE1108, CS110 9 
+CHN17CS037 AZHAR K  MA1010, PH1000, BE1006, BE101058, BE1038, EE1006, PH1108.5, EE1108.5, CS110 10 
+CHN17CS038 BAMISHA A  MA1010, PH1000, BE1000, BE101050, BE1037, EE1006, PH1108, EE1108.5, CS1108.5
+CHN17CS041 DARSANA M  MA1018, PH1000, BE1007, BE101058, BE1038.5, EE1006, PH1108, EE1108.5, CS110 10 
+CHN17CS044 DEEPAK R  MA1018, PH1007, BE1008, BE101058, BE103 10 , EE1007, PH110 9 , EE1108, CS110 10 
+CHN17CS045 DEVIKA KRISHNA  MA1010, PH1000, BE1000, BE101050, BE103 9 , EE1006, PH1108, EE1108, CS110 9 
+CHN17CS048 GEORGI K JOSEPH  MA1017, PH1007, BE100 10 , BE10105 9 , BE103 10 , EE1008.5, PH1108.5, EE1108, CS110 10 
+CHN17CS051 GOUTHAM G  MA1017, PH1007, BE1008, BE101058, BE1038.5, EE1007, PH110 9 , EE1107, CS110 10 
+CHN17CS052 GOVIND J NAIR  MA1010, PH1000, BE1000, BE101058, BE1038, EE1005, PH1108, EE110 9 , CS110 10 
+CHN17CS053 GRESHMA SHAJI  MA101 10 , PH1008, BE1008.5, BE101057, BE1038.5, EE100 9 , PH110 10 , EE110 9 , CS110 10 
+CHN17CS054 HARIDEV S  MA1017, PH1007, BE1000, BE101058, BE1038, EE1007, PH1108, EE1108, CS110 10 
+CHN17CS055 HARIKRISHNAN S KARTHA  MA1010, PH1006, BE1007, BE101056, BE1038.5, EE1006, PH1108.5, EE1108, CS110 10 
+CHN17CS057 JATHIN SURESH  MA1018, PH1008, BE1008, BE101058.5, BE103 9 , EE1008, PH110 9 , EE1108.5, CS110 10 
+CHN17CS058 JENY SUSAN RAJAN  MA1017, PH1008, BE1007, BE101058, BE103 9 , EE1007, PH1108.5, EE1108, CS110 10 
+CHN17CS063 JOEL JOSEPH  MA1018, PH1008, BE1007, BE101057, BE103 9 , EE1007, PH1108.5, EE1108.5, CS110 10 
+CHN17CS064 JOHAN SAM THOMAS  MA1018, PH1008, BE1007, BE101058, BE1037, EE1006, PH110 10 , EE1107, CS110 10 
+CHN17CS070 LENA GRACE JOSEPH  MA1018.5, PH1008.5, BE1008, BE101056, BE103 10 , EE1007, PH110 10 , EE110 9 , CS110 9 
+CHN17CS071 LINTA MARIAM DANIEL  MA1010, PH1000, BE1000, BE101057, BE1036, EE1006, PH1108, EE1108, CS110 10 
+CHN17CS074 MEGHA ELSA SHIBU  MA1010, PH1000, BE1000, BE101050, BE1038, EE1000, PH1108, EE1108, CS110 9 
+CHN17CS076 MOHAMED SHAHIL K  MA1010, PH1007, BE1006, BE101050, BE1036, EE1005, PH1108, EE1108.5, CS1108.5
+CHN17CS077 MONIYA MOHAN  MA1018, PH1008.5, BE1008, BE101058.5, BE1038, EE1007, PH110 9 , EE1108, CS110 10 
+CHN17CS080 NIKHIL M TOMY  MA1018, PH1007, BE1008, BE10105 9 , BE1038, EE1007, PH1108.5, EE110 9 , CS110 10 
+CHN17CS083 NIRMAL K GEORGE MATHEW MA1017, PH1006, BE1006, BE101057, BE1037, EE1006, PH1108.5, EE1108, CS110 10 
+CHN17CS085 NITHYA VENUGOPAL  MA1018.5, PH100 10 , BE100 10 , BE101057, BE1038, EE1008, PH110 9 , EE1108, CS110 10  
+CHN17CS088 N S ATHUL ANAND MA1010, PH1000, BE1000, BE101058, BE1038, EE1006, PH1108, EE1108, CS110 10 
+CHN17CS090 PRANAY PRINCE  MA1010, PH1005, BE1000, BE101058, BE1038, EE1006, PH1108, EE110 9 , CS110 10 
+CHN17CS093 RITHU MARIA JOSE  MA101 9 , PH1006, BE1008, BE10105 9 , BE1037, EE1006, PH1108.5, EE1108, CS110 9 
+CHN17CS094 RITTY THOMAS  MA1018, PH1008, BE1007, BE10105 9 , BE1038, EE1008, PH110 9 , EE1108, CS110 10 
+CHN17CS095 ROSHIN ROY  MA1016, PH1008, BE1008, BE101058, BE1038.5, EE1008, PH110 9 , EE110 10 , CS110 10 
+CHN17CS097 SACHIN R  MA1018.5, PH1008.5, BE100 9 , BE10105 10 , BE1038.5, EE1008.5, PH110 9 , EE1108, CS110 10 
+CHN17CS100 SAYOOJ K  MA1010, PH1007, BE1007, BE101057, BE1037, EE1007, PH110 9 , EE110 9 , CS1108.5
+CHN17CS101 SHABEERDAS C  MA1010, PH1007, BE1007, BE101057, BE1038, EE1005, PH110 9 , EE110 9 , CS110 10 
+CHN17CS104 SHYLESH S  MA1017, PH1007, BE1006, BE10105 9 , BE103 9 , EE1006, PH110 9 , EE1108, CS110 10 
+CHN17CS106 SNEHA JAYAN  MA1017, PH1006, BE1000, BE101050, BE1037, EE1005, PH1108, EE110 9 , CS110 10 
+CHN17CS109 SREELAL S  MA1010, PH1000, BE1000, BE101050, BE1036, EE1000, PH1108, EE1108.5, CS1108
+CHN17CS110 STEPHEN THOMAS  MA1016, PH1008, BE1006, BE101056, BE1038.5, EE1007, PH1108.5, EE1108, CS1108.5
+CHN17CS111 SURYA MERIN PHILIP  MA1017, PH1008, BE1000, BE10105 9 , BE103 9 , EE1007, PH110 9 , EE1108, CS110 9 
+CHN17CS113 THWALIB NAZIR  MA1010, PH1007, BE1007, BE101056, BE1038, EE1006, PH1108, EE110 9 , CS1108
+CHN17CS114 VARGHESE P P  MA1017, PH1008, BE1007, BE101056, BE1038, EE1007, PH110 9 , EE1108, CS110 10 
+CHN17CS115 VIMAL K R  MA1017, PH1008, BE1008.5, BE101058, BE1038.5, EE1007, PH110 10 , EE110 9 , CS110 10 
+CHN17CS116 VISAKH SEBASTIAN  MA1010, PH1008.5, BE1007, BE101058.5, BE103 9 , EE1007, PH110 10 , EE1108, CS110 10 
+CHN17CS117 VISHAK P V  MA1018, PH1007, BE1007, BE101058, BE1038.5, EE1006, PH110 10 , EE110 9 , CS110 10 
+CHN17CS118 VISHNU V  MA1017, PH1008.5, BE1008.5, BE101056, BE1038, EE1008, PH110 10 , EE110 10 , CS110 10 
+CHN17CS119 VYSHAKH R  MA1010, PH1006, BE1000, BE101057, BE1037, EE1006, PH110 9 , EE1108, CS110 10 
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt sed -i 's/(10)/ 10 /g' s4d_result.txt[1P[C[1P(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[1P
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/8.5/ 8.5 /g' s4d_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[1P
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/8/ 8 /g' s4d_result.txt[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[1P
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/7/ 7 /g' s4d_result.txt8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/6/ 6 /g' s4d_result.txt7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1@5
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/5/ 5 /g' s4d_result.txt[C[1P[1@0
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt 
+CHN1 7 CS 5  5 4 ABIN THOMAS  MA1 5 1 7 , PH1 5  5  6 , BE1 5  5  8 , BE1 5 1 5  5  6 , BE1 5 3 8 , EE1 5  5  7 , PH11 5   8 . 5  , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS 5  5  6  ADERSH A  MA1 5 1 1 5  , PH1 5  5  8 , BE1 5  5  9 , BE1 5 1 5  5  7 , BE1 5 3 9 , EE1 5  5  8 , PH11 5  9 , EE11 5  8 , CS11 5  9 
+CHN1 7 CS 5 13 ALEN ANTO ABRAHAM  MA1 5 1 5 , PH1 5  5  7 , BE1 5  5  7 , BE1 5 1 5  5   8 . 5  , BE1 5 3  8 . 5  , EE1 5  5  7 , PH11 5  9 , EE11 5   8 . 5  , CS11 5  1 5   
+CHN1 7 CS 5 1 7  AMAL XAVIER  MA1 5 1 8 , PH1 5  5   8 . 5  , BE1 5  5  8 , BE1 5 1 5  5  9 , BE1 5 3 9 , EE1 5  5   8 . 5  , PH11 5  9 , EE11 5   8 . 5  , CS11 5  1 5  
+CHN1 7 CS 5 1 8  AMRITA AJITH  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 6 , EE1 5  5  5 , PH11 5  8 , EE11 5  8 , CS11 5   8 . 5  
+CHN1 7 CS 5 19 ANAKHA B M  MA1 5 1  8 . 5  , PH1 5  5  9 , BE1 5  5  8 , BE1 5 1 5  5  9 , BE1 5 3  8 . 5  , EE1 5  5   8 . 5  , PH11 5  1 5  , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5 21 ANIJA J  MA1 5 1 7 , PH1 5  5  6 , BE1 5  5  7 , BE1 5 1 5  5  8 , BE1 5 3 7 , EE1 5  5  6 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5 22 ANJALI LAKSHMI  MA1 5 1 5 , PH1 5  5  6 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 5 , EE1 5  5  5 , PH11 5  8 , EE11 5  7 , CS11 5   8 . 5  
+CHN1 7 CS 5 23 ANUJA DEV R  MA1 5 1 5 , PH1 5  5  6 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 8 , EE1 5  5  6 , PH11 5  8 , EE11 5  9 , CS11 5  8 
+CHN1 7 CS 5 24 ANUROSE K THOMAS  MA1 5 1 8 , PH1 5  5  9 , BE1 5  5  1 5  , BE1 5 1 5  5  9 , BE1 5 3 9 , EE1 5  5  8 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5 2 7  ARCHANA ROSE BIJU  MA1 5 1  8 . 5  , PH1 5  5  7 , BE1 5  5  7 , BE1 5 1 5  5  8 , BE1 5 3 9 , EE1 5  5  7 , PH11 5   8 . 5  , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS 5 29 ARUN R  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  6 , BE1 5 3 8 , EE1 5  5  5 , PH11 5  8 , EE11 5   8 . 5  , CS11 5   8 . 5  
+CHN1 7 CS 5 3 5  ASHISH MATHEW JOHN  MA1 5 1 9 , PH1 5  5   8 . 5  , BE1 5  5  9 , BE1 5 1 5  5  9 , BE1 5 3 8 , EE1 5  5  8 , PH11 5  1 5  , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS 5 32 ASWIN K  MA1 5 1 5 , PH1 5  5  6 , BE1 5  5  6 , BE1 5 1 5  5  8 , BE1 5 3 8 , EE1 5  5  6 , PH11 5  8 , EE11 5   8 . 5  , CS11 5  9 
+CHN1 7 CS 5 34 ATHIRA SURESH  MA1 5 1 7 , PH1 5  5  8 , BE1 5  5  7 , BE1 5 1 5  5  5 , BE1 5 3 9 , EE1 5  5  6 , PH11 5   8 . 5  , EE11 5  8 , CS11 5  9 
+CHN1 7 CS 5 3 7  AZHAR K  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  6 , BE1 5 1 5  5  8 , BE1 5 3 8 , EE1 5  5  6 , PH11 5   8 . 5  , EE11 5   8 . 5  , CS11 5  1 5  
+CHN1 7 CS 5 3 8  BAMISHA A  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 7 , EE1 5  5  6 , PH11 5  8 , EE11 5   8 . 5  , CS11 5   8 . 5  
+CHN1 7 CS 5 41 DARSANA M  MA1 5 1 8 , PH1 5  5  5 , BE1 5  5  7 , BE1 5 1 5  5  8 , BE1 5 3  8 . 5  , EE1 5  5  6 , PH11 5  8 , EE11 5   8 . 5  , CS11 5  1 5  
+CHN1 7 CS 5 44 DEEPAK R  MA1 5 1 8 , PH1 5  5  7 , BE1 5  5  8 , BE1 5 1 5  5  8 , BE1 5 3 1 5  , EE1 5  5  7 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5 4 5  DEVIKA KRISHNA  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 9 , EE1 5  5  6 , PH11 5  8 , EE11 5  8 , CS11 5  9 
+CHN1 7 CS 5 4 8  GEORGI K JOSEPH  MA1 5 1 7 , PH1 5  5  7 , BE1 5  5  1 5  , BE1 5 1 5  5  9 , BE1 5 3 1 5  , EE1 5  5   8 . 5  , PH11 5   8 . 5  , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5  5 1 GOUTHAM G  MA1 5 1 7 , PH1 5  5  7 , BE1 5  5  8 , BE1 5 1 5  5  8 , BE1 5 3  8 . 5  , EE1 5  5  7 , PH11 5  9 , EE11 5  7 , CS11 5  1 5  
+CHN1 7 CS 5  5 2 GOVIND J NAIR  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  8 , BE1 5 3 8 , EE1 5  5  5 , PH11 5  8 , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS 5  5 3 GRESHMA SHAJI  MA1 5 1 1 5  , PH1 5  5  8 , BE1 5  5   8 . 5  , BE1 5 1 5  5  7 , BE1 5 3  8 . 5  , EE1 5  5  9 , PH11 5  1 5  , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS 5  5 4 HARIDEV S  MA1 5 1 7 , PH1 5  5  7 , BE1 5  5  5 , BE1 5 1 5  5  8 , BE1 5 3 8 , EE1 5  5  7 , PH11 5  8 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5  5  5  HARIKRISHNAN S KARTHA  MA1 5 1 5 , PH1 5  5  6 , BE1 5  5  7 , BE1 5 1 5  5  6 , BE1 5 3  8 . 5  , EE1 5  5  6 , PH11 5   8 . 5  , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5  5  7  JATHIN SURESH  MA1 5 1 8 , PH1 5  5  8 , BE1 5  5  8 , BE1 5 1 5  5   8 . 5  , BE1 5 3 9 , EE1 5  5  8 , PH11 5  9 , EE11 5   8 . 5  , CS11 5  1 5  
+CHN1 7 CS 5  5  8  JENY SUSAN RAJAN  MA1 5 1 7 , PH1 5  5  8 , BE1 5  5  7 , BE1 5 1 5  5  8 , BE1 5 3 9 , EE1 5  5  7 , PH11 5   8 . 5  , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5  6 3 JOEL JOSEPH  MA1 5 1 8 , PH1 5  5  8 , BE1 5  5  7 , BE1 5 1 5  5  7 , BE1 5 3 9 , EE1 5  5  7 , PH11 5   8 . 5  , EE11 5   8 . 5  , CS11 5  1 5  
+CHN1 7 CS 5  6 4 JOHAN SAM THOMAS  MA1 5 1 8 , PH1 5  5  8 , BE1 5  5  7 , BE1 5 1 5  5  8 , BE1 5 3 7 , EE1 5  5  6 , PH11 5  1 5  , EE11 5  7 , CS11 5  1 5  
+CHN1 7 CS 5  7  5  LENA GRACE JOSEPH  MA1 5 1  8 . 5  , PH1 5  5   8 . 5  , BE1 5  5  8 , BE1 5 1 5  5  6 , BE1 5 3 1 5  , EE1 5  5  7 , PH11 5  1 5  , EE11 5  9 , CS11 5  9 
+CHN1 7 CS 5  7 1 LINTA MARIAM DANIEL  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  7 , BE1 5 3 6 , EE1 5  5  6 , PH11 5  8 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5  7 4 MEGHA ELSA SHIBU  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 8 , EE1 5  5  5 , PH11 5  8 , EE11 5  8 , CS11 5  9 
+CHN1 7 CS 5  7  6  MOHAMED SHAHIL K  MA1 5 1 5 , PH1 5  5  7 , BE1 5  5  6 , BE1 5 1 5  5  5 , BE1 5 3 6 , EE1 5  5  5 , PH11 5  8 , EE11 5   8 . 5  , CS11 5   8 . 5  
+CHN1 7 CS 5  7  7  MONIYA MOHAN  MA1 5 1 8 , PH1 5  5   8 . 5  , BE1 5  5  8 , BE1 5 1 5  5   8 . 5  , BE1 5 3 8 , EE1 5  5  7 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5  8  5  NIKHIL M TOMY  MA1 5 1 8 , PH1 5  5  7 , BE1 5  5  8 , BE1 5 1 5  5  9 , BE1 5 3 8 , EE1 5  5  7 , PH11 5   8 . 5  , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS 5  8 3 NIRMAL K GEORGE MATHEW MA1 5 1 7 , PH1 5  5  6 , BE1 5  5  6 , BE1 5 1 5  5  7 , BE1 5 3 7 , EE1 5  5  6 , PH11 5   8 . 5  , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5  8  5  NITHYA VENUGOPAL  MA1 5 1  8 . 5  , PH1 5  5  1 5  , BE1 5  5  1 5  , BE1 5 1 5  5  7 , BE1 5 3 8 , EE1 5  5  8 , PH11 5  9 , EE11 5  8 , CS11 5  1 5   
+CHN1 7 CS 5  8  8  N S ATHUL ANAND MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  8 , BE1 5 3 8 , EE1 5  5  6 , PH11 5  8 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5 9 5  PRANAY PRINCE  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  8 , BE1 5 3 8 , EE1 5  5  6 , PH11 5  8 , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS 5 93 RITHU MARIA JOSE  MA1 5 1 9 , PH1 5  5  6 , BE1 5  5  8 , BE1 5 1 5  5  9 , BE1 5 3 7 , EE1 5  5  6 , PH11 5   8 . 5  , EE11 5  8 , CS11 5  9 
+CHN1 7 CS 5 94 RITTY THOMAS  MA1 5 1 8 , PH1 5  5  8 , BE1 5  5  7 , BE1 5 1 5  5  9 , BE1 5 3 8 , EE1 5  5  8 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS 5 9 5  ROSHIN ROY  MA1 5 1 6 , PH1 5  5  8 , BE1 5  5  8 , BE1 5 1 5  5  8 , BE1 5 3  8 . 5  , EE1 5  5  8 , PH11 5  9 , EE11 5  1 5  , CS11 5  1 5  
+CHN1 7 CS 5 9 7  SACHIN R  MA1 5 1  8 . 5  , PH1 5  5   8 . 5  , BE1 5  5  9 , BE1 5 1 5  5  1 5  , BE1 5 3  8 . 5  , EE1 5  5   8 . 5  , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS1 5  5  SAYOOJ K  MA1 5 1 5 , PH1 5  5  7 , BE1 5  5  7 , BE1 5 1 5  5  7 , BE1 5 3 7 , EE1 5  5  7 , PH11 5  9 , EE11 5  9 , CS11 5   8 . 5  
+CHN1 7 CS1 5 1 SHABEERDAS C  MA1 5 1 5 , PH1 5  5  7 , BE1 5  5  7 , BE1 5 1 5  5  7 , BE1 5 3 8 , EE1 5  5  5 , PH11 5  9 , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS1 5 4 SHYLESH S  MA1 5 1 7 , PH1 5  5  7 , BE1 5  5  6 , BE1 5 1 5  5  9 , BE1 5 3 9 , EE1 5  5  6 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS1 5  6  SNEHA JAYAN  MA1 5 1 7 , PH1 5  5  6 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 7 , EE1 5  5  5 , PH11 5  8 , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS1 5 9 SREELAL S  MA1 5 1 5 , PH1 5  5  5 , BE1 5  5  5 , BE1 5 1 5  5  5 , BE1 5 3 6 , EE1 5  5  5 , PH11 5  8 , EE11 5   8 . 5  , CS11 5  8 
+CHN1 7 CS11 5  STEPHEN THOMAS  MA1 5 1 6 , PH1 5  5  8 , BE1 5  5  6 , BE1 5 1 5  5  6 , BE1 5 3  8 . 5  , EE1 5  5  7 , PH11 5   8 . 5  , EE11 5  8 , CS11 5   8 . 5  
+CHN1 7 CS111 SURYA MERIN PHILIP  MA1 5 1 7 , PH1 5  5  8 , BE1 5  5  5 , BE1 5 1 5  5  9 , BE1 5 3 9 , EE1 5  5  7 , PH11 5  9 , EE11 5  8 , CS11 5  9 
+CHN1 7 CS113 THWALIB NAZIR  MA1 5 1 5 , PH1 5  5  7 , BE1 5  5  7 , BE1 5 1 5  5  6 , BE1 5 3 8 , EE1 5  5  6 , PH11 5  8 , EE11 5  9 , CS11 5  8 
+CHN1 7 CS114 VARGHESE P P  MA1 5 1 7 , PH1 5  5  8 , BE1 5  5  7 , BE1 5 1 5  5  6 , BE1 5 3 8 , EE1 5  5  7 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS11 5  VIMAL K R  MA1 5 1 7 , PH1 5  5  8 , BE1 5  5   8 . 5  , BE1 5 1 5  5  8 , BE1 5 3  8 . 5  , EE1 5  5  7 , PH11 5  1 5  , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS11 6  VISAKH SEBASTIAN  MA1 5 1 5 , PH1 5  5   8 . 5  , BE1 5  5  7 , BE1 5 1 5  5   8 . 5  , BE1 5 3 9 , EE1 5  5  7 , PH11 5  1 5  , EE11 5  8 , CS11 5  1 5  
+CHN1 7 CS11 7  VISHAK P V  MA1 5 1 8 , PH1 5  5  7 , BE1 5  5  7 , BE1 5 1 5  5  8 , BE1 5 3  8 . 5  , EE1 5  5  6 , PH11 5  1 5  , EE11 5  9 , CS11 5  1 5  
+CHN1 7 CS11 8  VISHNU V  MA1 5 1 7 , PH1 5  5   8 . 5  , BE1 5  5   8 . 5  , BE1 5 1 5  5  6 , BE1 5 3 8 , EE1 5  5  8 , PH11 5  1 5  , EE11 5  1 5  , CS11 5  1 5  
+CHN1 7 CS119 VYSHAKH R  MA1 5 1 5 , PH1 5  5  6 , BE1 5  5  5 , BE1 5 1 5  5  7 , BE1 5 3 7 , EE1 5  5  6 , PH11 5  9 , EE11 5  8 , CS11 5  1 5  
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ clear
+[3J[H[2J]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ clearat s4d_result.txt 
+CHN17CS004 ABIN THOMAS  MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS006 ADERSH A  MA101(O), PH100(B+), BE100(A+), BE10105(B), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS013 ALEN ANTO ABRAHAM  MA101(F), PH100(B), BE100(B), BE10105(A), BE103(A), EE100(B), PH110(A+), EE110(A), CS110(O) 
+CHN17CS017 AMAL XAVIER  MA101(B+), PH100(A), BE100(B+), BE10105(A+), BE103(A+), EE100(A), PH110(A+), EE110(A), CS110(O)
+CHN17CS018 AMRITA AJITH  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+), CS110(A)
+CHN17CS019 ANAKHA B M  MA101(A), PH100(A+), BE100(B+), BE10105(A+), BE103(A), EE100(A), PH110(O), EE110(B+), CS110(O)
+CHN17CS021 ANIJA J  MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS022 ANJALI LAKSHMI  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B), CS110(A)
+CHN17CS023 ANUJA DEV R  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(B+)
+CHN17CS024 ANUROSE K THOMAS  MA101(B+), PH100(A+), BE100(O), BE10105(A+), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(O)
+CHN17CS027 ARCHANA ROSE BIJU  MA101(A), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS029 ARUN R  MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS030 ASHISH MATHEW JOHN  MA101(A+), PH100(A), BE100(A+), BE10105(A+), BE103(B+), EE100(B+), PH110(O), EE110(A+), CS110(O)
+CHN17CS032 ASWIN K  MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A), CS110(A+)
+CHN17CS034 ATHIRA SURESH  MA101(B), PH100(B+), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+), CS110(A+)
+CHN17CS037 AZHAR K  MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A), CS110(O)
+CHN17CS038 BAMISHA A  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(A), CS110(A)
+CHN17CS041 DARSANA M  MA101(B+), PH100(F), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A), CS110(O)
+CHN17CS044 DEEPAK R  MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE103(O), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS045 DEVIKA KRISHNA  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS048 GEORGI K JOSEPH  MA101(B), PH100(B), BE100(O), BE10105(A+), BE103(O), EE100(A), PH110(A), EE110(B+), CS110(O)
+CHN17CS051 GOUTHAM G  MA101(B), PH100(B), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B), CS110(O)
+CHN17CS052 GOVIND J NAIR  MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE110(A+), CS110(O)
+CHN17CS053 GRESHMA SHAJI  MA101(O), PH100(B+), BE100(A), BE10105(B), BE103(A), EE100(A+), PH110(O), EE110(A+), CS110(O)
+CHN17CS054 HARIDEV S  MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+), CS110(O)
+CHN17CS055 HARIKRISHNAN S KARTHA  MA101(F), PH100(C), BE100(B), BE10105(C), BE103(A), EE100(C), PH110(A), EE110(B+), CS110(O)
+CHN17CS057 JATHIN SURESH  MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(A+), EE100(B+), PH110(A+), EE110(A), CS110(O)
+CHN17CS058 JENY SUSAN RAJAN  MA101(B), PH100(B+), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(B+), CS110(O)
+CHN17CS063 JOEL JOSEPH  MA101(B+), PH100(B+), BE100(B), BE10105(B), BE103(A+), EE100(B), PH110(A), EE110(A), CS110(O)
+CHN17CS064 JOHAN SAM THOMAS  MA101(B+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(O), EE110(B), CS110(O)
+CHN17CS070 LENA GRACE JOSEPH  MA101(A), PH100(A), BE100(B+), BE10105(C), BE103(O), EE100(B), PH110(O), EE110(A+), CS110(A+)
+CHN17CS071 LINTA MARIAM DANIEL  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(C), EE100(C), PH110(B+), EE110(B+), CS110(O)
+CHN17CS074 MEGHA ELSA SHIBU  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(FE), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS076 MOHAMED SHAHIL K  MA101(F), PH100(B), BE100(C), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS077 MONIYA MOHAN  MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS080 NIKHIL M TOMY  MA101(B+), PH100(B), BE100(B+), BE10105(A+), BE103(B+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS083 NIRMAL K GEORGE MATHEW MA101(B), PH100(C), BE100(C), BE10105(B), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(O)
+CHN17CS085 NITHYA VENUGOPAL  MA101(A), PH100(O), BE100(O), BE10105(B), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(O) 
+CHN17CS088 N S ATHUL ANAND MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(O)
+CHN17CS090 PRANAY PRINCE  MA101(F), PH100(P), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(O)
+CHN17CS093 RITHU MARIA JOSE  MA101(A+), PH100(C), BE100(B+), BE10105(A+), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(A+)
+CHN17CS094 RITTY THOMAS  MA101(B+), PH100(B+), BE100(B), BE10105(A+), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(O)
+CHN17CS095 ROSHIN ROY  MA101(C), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B+), PH110(A+), EE110(O), CS110(O)
+CHN17CS097 SACHIN R  MA101(A), PH100(A), BE100(A+), BE10105(O), BE103(A), EE100(A), PH110(A+), EE110(B+), CS110(O)
+CHN17CS100 SAYOOJ K  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B), EE100(B), PH110(A+), EE110(A+), CS110(A)
+CHN17CS101 SHABEERDAS C  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(P), PH110(A+), EE110(A+), CS110(O)
+CHN17CS104 SHYLESH S  MA101(B), PH100(B), BE100(C), BE10105(A+), BE103(A+), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS106 SNEHA JAYAN  MA101(B), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(P), PH110(B+), EE110(A+), CS110(O)
+CHN17CS109 SREELAL S  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(A), CS110(B+)
+CHN17CS110 STEPHEN THOMAS  MA101(C), PH100(B+), BE100(C), BE10105(C), BE103(A), EE100(B), PH110(A), EE110(B+), CS110(A)
+CHN17CS111 SURYA MERIN PHILIP  MA101(B), PH100(B+), BE100(F), BE10105(A+), BE103(A+), EE100(B), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS113 THWALIB NAZIR  MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(B+)
+CHN17CS114 VARGHESE P P  MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS115 VIMAL K R  MA101(B), PH100(B+), BE100(A), BE10105(B+), BE103(A), EE100(B), PH110(O), EE110(A+), CS110(O)
+CHN17CS116 VISAKH SEBASTIAN  MA101(F), PH100(A), BE100(B), BE10105(A), BE103(A+), EE100(B), PH110(O), EE110(B+), CS110(O)
+CHN17CS117 VISHAK P V  MA101(B+), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(O), EE110(A+), CS110(O)
+CHN17CS118 VISHNU V  MA101(B), PH100(A), BE100(A), BE10105(C), BE103(B+), EE100(B+), PH110(O), EE110(O), CS110(O)
+CHN17CS119 VYSHAKH R  MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(O)
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(I)/ 0 /g' s4d_result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(FE)/ 0 /g' s4d_result.txt[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(F)/ 0 /g' s4d_result.txt[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(P)/ 5 /g' s4d_result.txtF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(C)/ 6 /g' s4d_result.txtP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(B)/ 7 /g' s4d_result.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(B+)/ 8 /g' s4d_result.txt[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(A)/ 8.5 /g' s4d_result.txt[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ sed -i 's/(A+)/ 9 /g' s4d_result.txt[1@)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat s4d_result.txt lear[Kat s4d_result.txt sed -i 's/0/ 5 /g' s4d_result.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@.5/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat s4d_result.txt sed -i 's/10/ 10 /g' s4d_result.txt(9)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@8.5)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18@sed -i 's/(A+)/ 9 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(A+)/ 9/g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@o[1P[1@O
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d_result.txt 
+CHN17CS004 ABIN THOMAS  MA101 7 , PH100 6 , BE100 8 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10
+CHN17CS006 ADERSH A  MA101 10, PH100 8 , BE100 9 , BE10105 7 , BE103 9 , EE100 8 , PH110 9 , EE110 8 , CS110 9 
+CHN17CS013 ALEN ANTO ABRAHAM  MA101 0 , PH100 7 , BE100 7 , BE10105 8.5 , BE103 8.5 , EE100 7 , PH110 9 , EE110 8.5 , CS110 10 
+CHN17CS017 AMAL XAVIER  MA101 8 , PH100 8.5 , BE100 8 , BE10105 9 , BE103 9 , EE100 8.5 , PH110 9 , EE110 8.5 , CS110 10
+CHN17CS018 AMRITA AJITH  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 5 , PH110 8 , EE110 8 , CS110 8.5 
+CHN17CS019 ANAKHA B M  MA101 8.5 , PH100 9 , BE100 8 , BE10105 9 , BE103 8.5 , EE100 8.5 , PH110 10, EE110 8 , CS110 10
+CHN17CS021 ANIJA J  MA101 7 , PH100 6 , BE100 7 , BE10105 8 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 10
+CHN17CS022 ANJALI LAKSHMI  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 0 , EE100 0 , PH110 8 , EE110 7 , CS110 8.5 
+CHN17CS023 ANUJA DEV R  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 8 
+CHN17CS024 ANUROSE K THOMAS  MA101 8 , PH100 9 , BE100 10, BE10105 9 , BE103 9 , EE100 8 , PH110 9 , EE110 8 , CS110 10
+CHN17CS027 ARCHANA ROSE BIJU  MA101 8.5 , PH100 7 , BE100 7 , BE10105 8 , BE103 9 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10
+CHN17CS029 ARUN R  MA101 0 , PH100 0 , BE100 0 , BE10105 6 , BE103 8 , EE100 5 , PH110 8 , EE110 8.5 , CS110 8.5 
+CHN17CS030 ASHISH MATHEW JOHN  MA101 9 , PH100 8.5 , BE100 9 , BE10105 9 , BE103 8 , EE100 8 , PH110 10, EE110 9 , CS110 10
+CHN17CS032 ASWIN K  MA101 0 , PH100 6 , BE100 6 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 8.5 , CS110 9 
+CHN17CS034 ATHIRA SURESH  MA101 7 , PH100 8 , BE100 7 , BE10105 0 , BE103 9 , EE100 6 , PH110 8.5 , EE110 8 , CS110 9 
+CHN17CS037 AZHAR K  MA101 0 , PH100 0 , BE100 6 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8.5 , CS110 10
+CHN17CS038 BAMISHA A  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 6 , PH110 8 , EE110 8.5 , CS110 8.5 
+CHN17CS041 DARSANA M  MA101 8 , PH100 0 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 8 , EE110 8.5 , CS110 10
+CHN17CS044 DEEPAK R  MA101 8 , PH100 7 , BE100 8 , BE10105 8 , BE103 10, EE100 7 , PH110 9 , EE110 8 , CS110 10
+CHN17CS045 DEVIKA KRISHNA  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 9 , EE100 6 , PH110 8 , EE110 8 , CS110 9 
+CHN17CS048 GEORGI K JOSEPH  MA101 7 , PH100 7 , BE100 10, BE10105 9 , BE103 10, EE100 8.5 , PH110 8.5 , EE110 8 , CS110 10
+CHN17CS051 GOUTHAM G  MA101 7 , PH100 7 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 9 , EE110 7 , CS110 10
+CHN17CS052 GOVIND J NAIR  MA101 0 , PH100 0 , BE100 0 , BE10105 8 , BE103 8 , EE100 5 , PH110 8 , EE110 9 , CS110 10
+CHN17CS053 GRESHMA SHAJI  MA101 10, PH100 8 , BE100 8.5 , BE10105 7 , BE103 8.5 , EE100 9 , PH110 10, EE110 9 , CS110 10
+CHN17CS054 HARIDEV S  MA101 7 , PH100 7 , BE100 0 , BE10105 8 , BE103 8 , EE100 7 , PH110 8 , EE110 8 , CS110 10
+CHN17CS055 HARIKRISHNAN S KARTHA  MA101 0 , PH100 6 , BE100 7 , BE10105 6 , BE103 8.5 , EE100 6 , PH110 8.5 , EE110 8 , CS110 10
+CHN17CS057 JATHIN SURESH  MA101 8 , PH100 8 , BE100 8 , BE10105 8.5 , BE103 9 , EE100 8 , PH110 9 , EE110 8.5 , CS110 10
+CHN17CS058 JENY SUSAN RAJAN  MA101 7 , PH100 8 , BE100 7 , BE10105 8 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8 , CS110 10
+CHN17CS063 JOEL JOSEPH  MA101 8 , PH100 8 , BE100 7 , BE10105 7 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8.5 , CS110 10
+CHN17CS064 JOHAN SAM THOMAS  MA101 8 , PH100 8 , BE100 7 , BE10105 8 , BE103 7 , EE100 6 , PH110 10, EE110 7 , CS110 10
+CHN17CS070 LENA GRACE JOSEPH  MA101 8.5 , PH100 8.5 , BE100 8 , BE10105 6 , BE103 10, EE100 7 , PH110 10, EE110 9 , CS110 9 
+CHN17CS071 LINTA MARIAM DANIEL  MA101 0 , PH100 0 , BE100 0 , BE10105 7 , BE103 6 , EE100 6 , PH110 8 , EE110 8 , CS110 10
+CHN17CS074 MEGHA ELSA SHIBU  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 0 , PH110 8 , EE110 8 , CS110 9 
+CHN17CS076 MOHAMED SHAHIL K  MA101 0 , PH100 7 , BE100 6 , BE10105 0 , BE103 6 , EE100 5 , PH110 8 , EE110 8.5 , CS110 8.5 
+CHN17CS077 MONIYA MOHAN  MA101 8 , PH100 8.5 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 10
+CHN17CS080 NIKHIL M TOMY  MA101 8 , PH100 7 , BE100 8 , BE10105 9 , BE103 8 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10
+CHN17CS083 NIRMAL K GEORGE MATHEW MA101 7 , PH100 6 , BE100 6 , BE10105 7 , BE103 7 , EE100 6 , PH110 8.5 , EE110 8 , CS110 10
+CHN17CS085 NITHYA VENUGOPAL  MA101 8.5 , PH100 10, BE100 10, BE10105 7 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS088 N S ATHUL ANAND MA101 0 , PH100 0 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 10
+CHN17CS090 PRANAY PRINCE  MA101 0 , PH100 5 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 10
+CHN17CS093 RITHU MARIA JOSE  MA101 9 , PH100 6 , BE100 8 , BE10105 9 , BE103 7 , EE100 6 , PH110 8.5 , EE110 8 , CS110 9 
+CHN17CS094 RITTY THOMAS  MA101 8 , PH100 8 , BE100 7 , BE10105 9 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 10
+CHN17CS095 ROSHIN ROY  MA101 6 , PH100 8 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 8 , PH110 9 , EE110 10, CS110 10
+CHN17CS097 SACHIN R  MA101 8.5 , PH100 8.5 , BE100 9 , BE10105 10, BE103 8.5 , EE100 8.5 , PH110 9 , EE110 8 , CS110 10
+CHN17CS100 SAYOOJ K  MA101 0 , PH100 7 , BE100 7 , BE10105 7 , BE103 7 , EE100 7 , PH110 9 , EE110 9 , CS110 8.5 
+CHN17CS101 SHABEERDAS C  MA101 0 , PH100 7 , BE100 7 , BE10105 7 , BE103 8 , EE100 5 , PH110 9 , EE110 9 , CS110 10
+CHN17CS104 SHYLESH S  MA101 7 , PH100 7 , BE100 6 , BE10105 9 , BE103 9 , EE100 6 , PH110 9 , EE110 8 , CS110 10
+CHN17CS106 SNEHA JAYAN  MA101 7 , PH100 6 , BE100 0 , BE10105 0 , BE103 7 , EE100 5 , PH110 8 , EE110 9 , CS110 10
+CHN17CS109 SREELAL S  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 0 , PH110 8 , EE110 8.5 , CS110 8 
+CHN17CS110 STEPHEN THOMAS  MA101 6 , PH100 8 , BE100 6 , BE10105 6 , BE103 8.5 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8.5 
+CHN17CS111 SURYA MERIN PHILIP  MA101 7 , PH100 8 , BE100 0 , BE10105 9 , BE103 9 , EE100 7 , PH110 9 , EE110 8 , CS110 9 
+CHN17CS113 THWALIB NAZIR  MA101 0 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 8 
+CHN17CS114 VARGHESE P P  MA101 7 , PH100 8 , BE100 7 , BE10105 6 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 10
+CHN17CS115 VIMAL K R  MA101 7 , PH100 8 , BE100 8.5 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 10, EE110 9 , CS110 10
+CHN17CS116 VISAKH SEBASTIAN  MA101 0 , PH100 8.5 , BE100 7 , BE10105 8.5 , BE103 9 , EE100 7 , PH110 10, EE110 8 , CS110 10
+CHN17CS117 VISHAK P V  MA101 8 , PH100 7 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 10, EE110 9 , CS110 10
+CHN17CS118 VISHNU V  MA101 7 , PH100 8.5 , BE100 8.5 , BE10105 6 , BE103 8 , EE100 8 , PH110 10, EE110 10, CS110 10
+CHN17CS119 VYSHAKH R  MA101 0 , PH100 6 , BE100 0 , BE10105 7 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 10
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ awk '{s=[K[KS=[K[Ks=$[K[K[K print $7 }' s4d_result.txt 
+PH100
+8
+,
+PH100
+PH100
+,
+PH100
+PH100
+,
+,
+,
+PH100
+,
+PH100
+PH100
+PH100
+PH100
+PH100
+PH100
+PH100
+,
+PH100
+,
+8
+PH100
+,
+PH100
+,
+PH100
+,
+,
+,
+,
+,
+PH100
+,
+7
+PH100
+0
+PH100
+,
+PH100
+PH100
+PH100
+PH100
+PH100
+PH100
+PH100
+PH100
+PH100
+,
+PH100
+,
+,
+PH100
+,
+PH100
+PH100
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ awk '{ print $7 }' s4d_result.txt [1P[1@5
+7
+10,
+MA101
+8
+0
+MA101
+7
+0
+MA101
+MA101
+MA101
+0
+MA101
+0
+7
+0
+0
+8
+8
+0
+MA101
+7
+MA101
+10,
+7
+MA101
+8
+MA101
+8
+MA101
+MA101
+MA101
+MA101
+MA101
+8
+MA101
+MATHEW
+8.5
+ANAND
+0
+MA101
+8
+6
+8.5
+0
+0
+7
+7
+0
+6
+MA101
+0
+MA101
+MA101
+0
+MA101
+7
+0
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ clear
+[3J[H[2J]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ ck[K[Kclear
+[3J[H[2J]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ ck[Klear
+[3J[H[2J]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cat s4d.txt
+cat: s4d.txt: No such file or directory
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ c[Kls
+cat.txt                  ceccs17d37.14.02.19.txt  [0m[01;34mDesktop[0m    [01;34mDownloads[0m         [01;34mMusic[0m  nikil.txt   [01;34mPictures[0m  s4d_result.txt  [01;34mVideos[0m
+ceccs17d37.07.02.19.txt  ceccs17d37.28.02.19.txt  [01;34mDocuments[0m  examples.desktop  nikil  nirmal.txt  [01;34mPublic[0m    [01;34mTemplates[0m
+]0;s4d2@ceclab2-H110M-S2: ~[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~[00m$ cd downloads[C[1PownloadsDownloads
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ ls
+chnresult.txt  result_CHN.pdf  result_CS_Only.txt  result_no_newline  result.txt  s4d_result.txt  s4d.txt  s4.txt
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ cat s4d.txt
+                COLLEGE OF ENGINEERING, CHENGANNUR
+B. Tech CS    Semester: IV (A. Y - 2018-19)Admn : 2017-18   Batch : D
+
+Sl No.   Admn No.    Uty Reg No.                    Name
+   1.      411/17   CHN17CS004     ABIN THOMAS
+   2.      412/17   CHN17CS006     ADERSH A
+   3.      347/17   CHN17CS013     ALEN ANTO ABRAHAM
+   4.      168/17   CHN17CS017     AMAL XAVIER
+   5.      434/17   CHN17CS018     AMRITA AJITH
+   6.      420/17   CHN17CS019     ANAKHA B M
+   7.      394/17   CHN17CS021     ANIJA J
+   8.       26/17   CHN17CS022     ANJALI LAKSHMI
+   9.      382/17   CHN17CS023     ANUJA DEV R
+   10.     119/17   CHN17CS024     ANUROSE K THOMAS
+   11.     311/17   CHN17CS027     ARCHANA ROSE BIJU
+   12.     459/17   CHN17CS029     ARUN R
+   13.     386/17   CHN17CS030     ASHISH MATHEW JOHN
+   14.     388/17   CHN17CS032     ASWIN K
+   15.     113/17   CHN17CS034     ATHIRA SURESH
+   16.     456/17   CHN17CS037     AZHAR K
+   17.     197/17   CHN17CS038     BAMISHA A
+   18.     181/17   CHN17CS041     DARSANA M
+   19.     104/17   CHN17CS044     DEEPAK R
+   20.     160/17   CHN17CS045     DEVIKA KRISHNA
+   21.     172/17   CHN17CS048     GEORGI K JOSEPH
+   22.     121/17   CHN17CS051     GOUTHAM G
+   23.     378/17   CHN17CS052     GOVIND J NAIR
+   24.     143/17   CHN17CS053     GRESHMA SHAJI
+   25.     182/17   CHN17CS054     HARIDEV S
+   26.     154/17   CHN17CS055     HARIKRISHNAN S KARTHA
+   27.     445/17   CHN17CS057     JATHIN SURESH
+   28.      03/17   CHN17CS058     JENY SUSAN RAJAN
+   29.      36/17   CHN17CS063     JOEL JOSEPH
+   30.     151/17   CHN17CS064     JOHAN SAM THOMAS
+   31.     400/17   CHN17CS070     LENA GRACE JOSEPH
+   32.      17/17   CHN17CS071     LINTA MARIAM DANIEL
+   33.     393/17   CHN17CS074     MEGHA ELSA SHIBU
+   34.     389/17   CHN17CS076     MOHAMED SHAHIL K
+   35.     134/17   CHN17CS077     MONIYA MOHAN
+   36.     131/17   CHN17CS080     NIKHIL M TOMY
+   37.      10/17   CHN17CS083     NIRMAL K GEORGE MATHEW
+   38.     441/17   CHN17CS085     NITHYA VENUGOPAL
+   39.     142/17   CHN17CS088     N S ATHUL ANAND
+   40.     169/17   CHN17CS090     PRANAY PRINCE
+   41.     278/17   CHN17CS093     RITHU MARIA JOSE
+   42.     187/17   CHN17CS094     RITTY THOMAS
+   43.     423/17   CHN17CS095     ROSHIN ROY
+   44.     156/17   CHN17CS097     SACHIN R
+   45.     290/17   CHN17CS100     SAYOOJ K
+   46.     139/17   CHN17CS101     SHABEERDAS C
+   47.     115/17   CHN17CS104     SHYLESH S
+   48.     443/17   CHN17CS106     SNEHA JAYAN
+   49.     108/17   CHN17CS109     SREELAL S
+   50.     185/17   CHN17CS110     STEPHEN THOMAS
+   51.     315/17   CHN17CS111     SURYA MERIN PHILIP
+   52.     170/17   CHN17CS113     THWALIB NAZIR
+   53.     381/17   CHN17CS114     VARGHESE P P
+   54.     102/17   CHN17CS115     VIMAL K R
+   55.     192/17   CHN17CS116     VISAKH SEBASTIAN
+   56.     116/17   CHN17CS117     VISHAK P V
+   57.     357/17   CHN17CS118     VISHNU V
+   58.     404/17   CHN17CS119     VYSHAKH R
+   59.     476/17   LCHN17CS122    AMRUTHA S
+   60.     469/17   LCHN17CS124    JACOB MATHEW
+   61.     480/17   LCHN17CS121    AISWARYA J
+   62.     475/17   LCHN17CS123    HARIKRISHNAN U
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ ls
+chnresult.txt  result_CHN.pdf  result_CS_Only.txt  result_no_newline  result.txt  s4d_result.txt  s4d.txt  s4.txt
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ cat result_no_newline[K[K[K[K[K[K[K[K_lineclear[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclear
+[3J[H[2J]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ cat s4.txt
+CHN17CS004 ABIN THOMAS  
+CHN17CS006 ADERSH A  
+CHN17CS013 ALEN ANTO ABRAHAM 
+CHN17CS017 AMAL XAVIER  
+CHN17CS018 AMRITA AJITH  
+CHN17CS019 ANAKHA B M 
+CHN17CS021 ANIJA J  
+CHN17CS022 ANJALI LAKSHMI  
+CHN17CS023 ANUJA DEV R 
+CHN17CS024 ANUROSE K THOMAS 
+CHN17CS027 ARCHANA ROSE BIJU 
+CHN17CS029 ARUN R  
+CHN17CS030 ASHISH MATHEW JOHN 
+CHN17CS032 ASWIN K  
+CHN17CS034 ATHIRA SURESH  
+CHN17CS037 AZHAR K  
+CHN17CS038 BAMISHA A  
+CHN17CS041 DARSANA M  
+CHN17CS044 DEEPAK R  
+CHN17CS045 DEVIKA KRISHNA  
+CHN17CS048 GEORGI K JOSEPH 
+CHN17CS051 GOUTHAM G  
+CHN17CS052 GOVIND J NAIR 
+CHN17CS053 GRESHMA SHAJI  
+CHN17CS054 HARIDEV S  
+CHN17CS055 HARIKRISHNAN S KARTHA 
+CHN17CS057 JATHIN SURESH  
+CHN17CS058 JENY SUSAN RAJAN 
+CHN17CS063 JOEL JOSEPH  
+CHN17CS064 JOHAN SAM THOMAS 
+CHN17CS070 LENA GRACE JOSEPH 
+CHN17CS071 LINTA MARIAM DANIEL 
+CHN17CS074 MEGHA ELSA SHIBU 
+CHN17CS076 MOHAMED SHAHIL K 
+CHN17CS077 MONIYA MOHAN  
+CHN17CS080 NIKHIL M TOMY 
+CHN17CS083 NIRMAL K GEORGE MATHEW
+CHN17CS085 NITHYA VENUGOPAL  
+CHN17CS088 N S ATHUL ANAND
+CHN17CS090 PRANAY PRINCE  
+CHN17CS093 RITHU MARIA JOSE 
+CHN17CS094 RITTY THOMAS  
+CHN17CS095 ROSHIN ROY  
+CHN17CS097 SACHIN R  
+CHN17CS100 SAYOOJ K  
+CHN17CS101 SHABEERDAS C  
+CHN17CS104 SHYLESH S  
+CHN17CS106 SNEHA JAYAN  
+CHN17CS109 SREELAL S  
+CHN17CS110 STEPHEN THOMAS  
+CHN17CS111 SURYA MERIN PHILIP 
+CHN17CS113 THWALIB NAZIR  
+CHN17CS114 VARGHESE P P 
+CHN17CS115 VIMAL K R 
+CHN17CS116 VISAKH SEBASTIAN  
+CHN17CS117 VISHAK P V 
+CHN17CS118 VISHNU V  
+CHN17CS119 VYSHAKH R  
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ ls
+chnresult.txt  result_CHN.pdf  result_CS_Only.txt  result_no_newline  result.txt  s4d_result.txt  s4d.txt  s4.txt
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ cat result.txt
+CHN17CS001  MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(B+), CS110(A)
+CHN17CS002  MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(A), EE100(B), PH110(B+), EE110(B+), CS110(B)
+CHN17CS003  MA101(B+), PH100(B), BE100(C), BE10105(C), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(B)
+CHN17CS004  MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS005  MA101(C), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(B+)
+CHN17CS006  MA101(O), PH100(B+), BE100(A+), BE10105(B), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS007  MA101(F), PH100(C), BE100(P), BE10105(F), BE103(B+), EE100(F), PH110(A), EE110(B+), CS110(B+)
+CHN17CS008  MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(A+), EE110(B+), CS110(B)
+CHN17CS009  MA101(A), PH100(A), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+), CS110(B)
+CHN17CS010  MA101(F), PH100(C), BE100(B), BE10105(C), BE103(B), EE100(C), PH110(B+), EE110(B+), CS110(B)
+CHN17CS011  MA101(C), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B+), PH110(A+), EE110(A), CS110(A)
+CHN17CS012  MA101(B+), PH100(A+), BE100(B+), BE10105(B+), BE103(A+), EE100(B+), PH110(A+), EE110(A+), CS110(B+)
+CHN17CS013  MA101(F), PH100(B), BE100(B), BE10105(A), BE103(A), EE100(B), PH110(A+), EE110(A), CS110(O) 
+CHN17CS014  MA101(F), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A+), CS110(B+)
+CHN17CS015  MA101(F), PH100(B+), BE100(C), BE10105(F), BE103(A), EE100(B), PH110(A+), EE110(A), CS110(C)
+CHN17CS016  MA101(B), PH100(B+), BE100(C), BE10105(F), BE103(B+), EE100(C), PH110(A), EE110(A), CS110(B+)
+CHN17CS017  MA101(B+), PH100(A), BE100(B+), BE10105(A+), BE103(A+), EE100(A), PH110(A+), EE110(A), CS110(O)
+CHN17CS018  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+), CS110(A)
+CHN17CS019  MA101(A), PH100(A+), BE100(B+), BE10105(A+), BE103(A), EE100(A), PH110(O), EE110(B+), CS110(O)
+CHN17CS020  MA101(B+), PH100(C), BE100(B), BE10105(F), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(B+)
+CHN17CS021  MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS022  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B), CS110(A)
+CHN17CS023  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(B+)
+CHN17CS024  MA101(B+), PH100(A+), BE100(O), BE10105(A+), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(O)
+CHN17CS025  MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(A), EE110(B+), CS110(B)
+CHN17CS026  MA101(C), PH100(B+), BE100(B+), BE10105(A), BE103(B+), EE100(C), PH110(O), EE110(A), CS110(A)
+CHN17CS027  MA101(A), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS028  MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS029  MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS030  MA101(A+), PH100(A), BE100(A+), BE10105(A+), BE103(B+), EE100(B+), PH110(O), EE110(A+), CS110(O)
+CHN17CS031  MA101(F), PH100(C), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(B+) 
+CHN17CS032  MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A), CS110(A+)
+CHN17CS033  MA101(B+), PH100(A), BE100(B+), BE10105(F), BE103(B), EE100(B+), PH110(A+), EE110(A), CS110(B)
+CHN17CS034  MA101(B), PH100(B+), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+), CS110(A+)
+CHN17CS035  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS036  MA101(B+), PH100(A+), BE100(A+), BE10105(B+), BE103(O), EE100(B), PH110(A+), EE110(A+), CS110(B+)
+CHN17CS037  MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A), CS110(O)
+CHN17CS038  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(A), CS110(A)
+CHN17CS039  MA101(B), PH100(F), BE100(B+), BE10105(A), BE103(A), EE100(B+), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS040  MA101(B+), PH100(A), BE100(A), BE10105(A), BE103(O), EE100(B+), PH110(O), EE110(B+), CS110(A)
+CHN17CS041  MA101(B+), PH100(F), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A), CS110(O)
+CHN17CS042  MA101(C), PH100(F), BE100(C), BE10105(B+), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS043  MA101(F), PH100(F), BE100(B), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS044  MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE103(O), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS045  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS046  MA101(F), PH100(F), BE100(C), BE10105(F), BE103(C), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS047  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(A), EE100(FE), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS048  MA101(B), PH100(B), BE100(O), BE10105(A+), BE103(O), EE100(A), PH110(A), EE110(B+), CS110(O)
+CHN17CS049  MA101(B+), PH100(A+), BE100(B), BE10105(O), BE103(A+), EE100(B+), PH110(A+), EE110(A+), CS110(B+) 
+CHN17CS050  MA101(B), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(A+), EE110(A+), CS110(B+)
+CHN17CS051  MA101(B), PH100(B), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B), CS110(O)
+CHN17CS052  MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE110(A+), CS110(O)
+CHN17CS053  MA101(O), PH100(B+), BE100(A), BE10105(B), BE103(A), EE100(A+), PH110(O), EE110(A+), CS110(O)
+CHN17CS054  MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+), CS110(O)
+CHN17CS055  MA101(F), PH100(C), BE100(B), BE10105(C), BE103(A), EE100(C), PH110(A), EE110(B+), CS110(O)
+CHN17CS056  MA101(F), PH100(B), BE100(F), BE10105(B), BE103(A), EE100(C), PH110(A), EE110(B+), CS110(B+)
+CHN17CS057  MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(A+), EE100(B+), PH110(A+), EE110(A), CS110(O)
+CHN17CS058  MA101(B), PH100(B+), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(B+), CS110(O)
+CHN17CS059  MA101(B+), PH100(B+), BE100(P), BE10105(B), BE103(B+), EE100(B), PH110(A), EE110(A), CS110(B+)
+CHN17CS060  MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A), CS110(O)
+CHN17CS061  MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(O), CS110(A)
+CHN17CS062  MA101(A+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(B), PH110(A+), EE110(A), CS110(B+)
+CHN17CS063  MA101(B+), PH100(B+), BE100(B), BE10105(B), BE103(A+), EE100(B), PH110(A), EE110(A), CS110(O)
+CHN17CS064  MA101(B+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(O), EE110(B), CS110(O)
+CHN17CS065  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+), CS110(C)
+CHN17CS066  MA101(F), PH100(C), BE100(C), BE10105(B), BE103(A), EE100(B), PH110(B+), EE110(B+), CS110(B)
+CHN17CS067  MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(B+) 
+CHN17CS068  MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(A+)
+CHN17CS069  MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(A+), EE100(B), PH110(A), EE110(B+), CS110(O)
+CHN17CS070  MA101(A), PH100(A), BE100(B+), BE10105(C), BE103(O), EE100(B), PH110(O), EE110(A+), CS110(A+)
+CHN17CS071  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(C), EE100(C), PH110(B+), EE110(B+), CS110(O)
+CHN17CS072  MA101(F), PH100(B), BE100(F), BE10105(C), BE103(C), EE100(C), PH110(B+), EE110(B), CS110(B+)
+CHN17CS073  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+), CS110(B)
+CHN17CS074  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(FE), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS075  MA101(B), PH100(B), BE100(C), BE10105(C), BE103(B+), EE100(P), PH110(A), EE110(B+), CS110(A+)
+CHN17CS076  MA101(F), PH100(B), BE100(C), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS077  MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS078  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS079  MA101(A+), PH100(B+), BE100(B+), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(A), CS110(O)
+CHN17CS080  MA101(B+), PH100(B), BE100(B+), BE10105(A+), BE103(B+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS081  MA101(B+), PH100(C), BE100(C), BE10105(B+), BE103(B), EE100(F), PH110(A), EE110(B), CS110(B)
+CHN17CS082  MA101(C), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS083  MA101(B), PH100(C), BE100(C), BE10105(B), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(O)
+CHN17CS084  MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(A)
+CHN17CS085  MA101(A), PH100(O), BE100(O), BE10105(B), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(O) 
+CHN17CS086  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(A), CS110(A)
+CHN17CS087  MA101(C), PH100(B), BE100(C), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(A)
+CHN17CS088  MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(O)
+CHN17CS089  MA101(A), PH100(C), BE100(B), BE10105(C), BE103(C), EE100(F), PH110(A), EE110(B), CS110(O)
+CHN17CS090  MA101(F), PH100(P), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(O)
+CHN17CS091  MA101(B+), PH100(A+), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS092  MA101(F), PH100(B), BE100(F), BE10105(C), BE103(B), EE100(B), PH110(A+), EE110(B+), CS110(B+)
+CHN17CS093  MA101(A+), PH100(C), BE100(B+), BE10105(A+), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(A+)
+CHN17CS094  MA101(B+), PH100(B+), BE100(B), BE10105(A+), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(O)
+CHN17CS095  MA101(C), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B+), PH110(A+), EE110(O), CS110(O)
+CHN17CS096  MA101(B), PH100(C), BE100(P), BE10105(B), BE103(B+), EE100(F), PH110(A+), EE110(A), CS110(A)
+CHN17CS097  MA101(A), PH100(A), BE100(A+), BE10105(O), BE103(A), EE100(A), PH110(A+), EE110(B+), CS110(O)
+CHN17CS098  MA101(O), PH100(O), BE100(A), BE10105(A), BE103(O), EE100(A), PH110(O), EE110(A), CS110(B)
+CHN17CS099  MA101(B+), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(F), PH110(A+), EE110(B+), CS110(A)
+CHN17CS100  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B), EE100(B), PH110(A+), EE110(A+), CS110(A)
+CHN17CS101  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(P), PH110(A+), EE110(A+), CS110(O)
+CHN17CS102  MA101(B), PH100(C), BE100(B), BE10105(F), BE103(B+), EE100(P), PH110(A+), EE110(B+), CS110(B)
+CHN17CS103  MA101(B), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B+), CS110(O) 
+CHN17CS104  MA101(B), PH100(B), BE100(C), BE10105(A+), BE103(A+), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS105  MA101(B), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(B), PH110(A+), EE110(B), CS110(B+)
+CHN17CS106  MA101(B), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(P), PH110(B+), EE110(A+), CS110(O)
+CHN17CS107  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(FE), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS108  MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(B+)
+CHN17CS109  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(A), CS110(B+)
+CHN17CS110  MA101(C), PH100(B+), BE100(C), BE10105(C), BE103(A), EE100(B), PH110(A), EE110(B+), CS110(A)
+CHN17CS111  MA101(B), PH100(B+), BE100(F), BE10105(A+), BE103(A+), EE100(B), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS112  MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH110(A+), EE110(A), CS110(B+)
+CHN17CS113  MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(B+)
+CHN17CS114  MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS115  MA101(B), PH100(B+), BE100(A), BE10105(B+), BE103(A), EE100(B), PH110(O), EE110(A+), CS110(O)
+CHN17CS116  MA101(F), PH100(A), BE100(B), BE10105(A), BE103(A+), EE100(B), PH110(O), EE110(B+), CS110(O)
+CHN17CS117  MA101(B+), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(O), EE110(A+), CS110(O)
+CHN17CS118  MA101(B), PH100(A), BE100(A), BE10105(C), BE103(B+), EE100(B+), PH110(O), EE110(O), CS110(O)
+CHN17CS119  MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS120  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(A), EE110(B+), CS110(B+) 
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ join s4.txt 
+join: missing operand after ‘s4.txt’
+Try 'join --help' for more information.
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ LS
+The program 'LS' is currently not installed. To run 'LS' please ask your administrator to install the package 'sl'
+]0;s4d2@ceclab2-H110M-S2: ~/Downloads[01;32ms4d2@ceclab2-H110M-S2[00m:[01;34m~/Downloads[00m$ join s4.txt result.txt
+CHN17CS004 ABIN THOMAS  MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS006 ADERSH A  MA101(O), PH100(B+), BE100(A+), BE10105(B), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS013 ALEN ANTO ABRAHAM  MA101(F), PH100(B), BE100(B), BE10105(A), BE103(A), EE100(B), PH110(A+), EE110(A), CS110(O) 
+CHN17CS017 AMAL XAVIER  MA101(B+), PH100(A), BE100(B+), BE10105(A+), BE103(A+), EE100(A), PH110(A+), EE110(A), CS110(O)
+CHN17CS018 AMRITA AJITH  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+), CS110(A)
+CHN17CS019 ANAKHA B M  MA101(A), PH100(A+), BE100(B+), BE10105(A+), BE103(A), EE100(A), PH110(O), EE110(B+), CS110(O)
+CHN17CS021 ANIJA J  MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS022 ANJALI LAKSHMI  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B), CS110(A)
+CHN17CS023 ANUJA DEV R  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(B+)
+CHN17CS024 ANUROSE K THOMAS  MA101(B+), PH100(A+), BE100(O), BE10105(A+), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(O)
+CHN17CS027 ARCHANA ROSE BIJU  MA101(A), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS029 ARUN R  MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS030 ASHISH MATHEW JOHN  MA101(A+), PH100(A), BE100(A+), BE10105(A+), BE103(B+), EE100(B+), PH110(O), EE110(A+), CS110(O)
+CHN17CS032 ASWIN K  MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A), CS110(A+)
+CHN17CS034 ATHIRA SURESH  MA101(B), PH100(B+), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+), CS110(A+)
+CHN17CS037 AZHAR K  MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A), CS110(O)
+CHN17CS038 BAMISHA A  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(A), CS110(A)
+CHN17CS041 DARSANA M  MA101(B+), PH100(F), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A), CS110(O)
+CHN17CS044 DEEPAK R  MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE103(O), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS045 DEVIKA KRISHNA  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS048 GEORGI K JOSEPH  MA101(B), PH100(B), BE100(O), BE10105(A+), BE103(O), EE100(A), PH110(A), EE110(B+), CS110(O)
+CHN17CS051 GOUTHAM G  MA101(B), PH100(B), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B), CS110(O)
+CHN17CS052 GOVIND J NAIR  MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE110(A+), CS110(O)
+CHN17CS053 GRESHMA SHAJI  MA101(O), PH100(B+), BE100(A), BE10105(B), BE103(A), EE100(A+), PH110(O), EE110(A+), CS110(O)
+CHN17CS054 HARIDEV S  MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+), CS110(O)
+CHN17CS055 HARIKRISHNAN S KARTHA  MA101(F), PH100(C), BE100(B), BE10105(C), BE103(A), EE100(C), PH110(A), EE110(B+), CS110(O)
+CHN17CS057 JATHIN SURESH  MA101(B
