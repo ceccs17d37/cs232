@@ -1,0 +1,168 @@
+Script started on 2019-04-25 11:25:33+0530
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ exitgedit index.phpls[Ksudo vim index.phpsystemctl status apache2[1@restart[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksudo gedit index.php[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksudo vim /etc/apache2/mods-enabled/dir.conf [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install php libapache2-mod-php php-mysql[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Pmariadb -u admin -p[1P[C[C[C[C[C[C[C[6Psudo mariadb[1Pdbysql_secure_installation[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kvim index.html sudo apt install vim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pvim index.htmlls[Ksudo rm index.nginx-debian.html [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Prm -f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Krm -f index.nginx-debian.html [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd /var/www/html/sudo systemctl enable apache2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pufw app info www Full"www Full"apt install ufw app list[K[3Pufw app listapt install apache2l apache2[10Pupdate
+[sudo] password for nirmal: 
+[33m0% [Working][0m[33m0% [Working][0m[33m0% [Connecting to in.archive.ubuntu.com] [Connecting to security.ubuntu.com] [C[0m                                                                               Hit:1 http://ppa.launchpad.net/webupd8team/java/ubuntu bionic InRelease
+[33m                                                                               0% [Waiting for headers] [Waiting for headers] [Waiting for headers][0m[33m0% [1 InRelease gpgv 15.4 kB] [Waiting for headers] [Waiting for headers] [Wait[0m                                                                               Get:2 http://packages.microsoft.com/repos/vscode stable InRelease [3,182 B]
+[33m0% [1 InRelease gpgv 15.4 kB] [Waiting for headers] [Waiting for headers] [2 In[0m[33m                                                                               0% [1 InRelease gpgv 15.4 kB] [Waiting for headers] [Waiting for headers][0m                                                                         Get:3 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+[33m0% [1 InRelease gpgv 15.4 kB] [Waiting for headers] [3 InRelease 4,524 B/88.7 k[0m                                                                               Hit:4 http://in.archive.ubuntu.com/ubuntu bionic InRelease
+[33m                                                                               0% [1 InRelease gpgv 15.4 kB] [3 InRelease 9,356 B/88.7 kB 11%][0m[33m                                                               0% [Waiting for headers] [3 InRelease 11.8 kB/88.7 kB 13%][0m[33m0% [2 InRelease gpgv 3,182 B] [Waiting for headers] [3 InRelease 11.8 kB/88.7 k[0m[33m                                                                               0% [Waiting for headers] [3 InRelease 11.8 kB/88.7 kB 13%][0m[33m0% [4 InRelease gpgv 242 kB] [Waiting for headers] [3 InRelease 11.8 kB/88.7 kB[0m[33m0% [Waiting for headers] [3 InRelease 23.9 kB/88.7 kB 27%] [Waiting for headers[0m                                                                               Get:5 http://packages.microsoft.com/repos/vscode stable/main amd64 Packages [112 kB]
+[33m0% [Waiting for headers] [3 InRelease 31.1 kB/88.7 kB 35%] [5 Packages 8,192 B/[0m                                                                               Get:6 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]
+[33m0% [6 InRelease 916 B/88.7 kB 1%] [3 InRelease 32.3 kB/88.7 kB 36%] [5 Packages[0m[33m0% [6 InRelease 13.0 kB/88.7 kB 15%] [3 InRelease 43.2 kB/88.7 kB 49%] [5 Packa[0m[33m0% [6 InRelease 13.0 kB/88.7 kB 15%] [3 InRelease 58.9 kB/88.7 kB 66%] [5 Packa[0m[33m0% [6 InRelease 33.5 kB/88.7 kB 38%] [3 InRelease 64.9 kB/88.7 kB 73%] [5 Packa[0m[33m0% [6 InRelease 35.9 kB/88.7 kB 41%] [3 InRelease 77.0 kB/88.7 kB 87%] [5 Packa[0m[33m0% [6 InRelease 35.9 kB/88.7 kB 41%] [3 InRelease 86.7 kB/88.7 kB 98%] [5 Packa[0m[33m                                                                               0% [6 InRelease 46.8 kB/88.7 kB 53%] [5 Packages 89.3 kB/112 kB 79%][0m[33m0% [3 InRelease gpgv 88.7 kB] [6 InRelease 46.8 kB/88.7 kB 53%] [5 Packages 89.[0m[33m                                                                               0% [6 InRelease 55.3 kB/88.7 kB 62%] [5 Packages 92.0 kB/112 kB 82%][0m[33m0% [6 InRelease 58.9 kB/88.7 kB 66%]                               38.7 kB/s 0s[0m[33m0% [5 Packages store 0 B] [6 InRelease 58.9 kB/88.7 kB 66%]        38.7 kB/s 0s[0m[33m0% [6 InRelease 58.9 kB/88.7 kB 66%]                               38.7 kB/s 0s[0m[33m0% [6 InRelease 58.9 kB/88.7 kB 66%]                               38.7 kB/s 0s[0m[33m0% [6 InRelease 84.3 kB/88.7 kB 95%]                               38.7 kB/s 0s[0m[33m0% [Working]                                                       38.7 kB/s 0s[0m[33m0% [6 InRelease gpgv 88.7 kB] [Waiting for headers]                38.7 kB/s 0s[0m[33m0% [Waiting for headers]                                           38.7 kB/s 0s[0m[33m0% [Waiting for headers]                                           38.7 kB/s 0s[0m                                                                               Get:7 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]
+[33m0% [7 InRelease 916 B/74.6 kB 1%]                                  38.7 kB/s 1s[0m[33m0% [7 InRelease 43.2 kB/74.6 kB 58%]                               38.7 kB/s 0s[0m[33m0% [Working]                                                       38.7 kB/s 0s[0m[33m0% [7 InRelease gpgv 74.6 kB]                                      38.7 kB/s 0s[0m[33m100% [Working]                                                     38.7 kB/s 0s[0m                                                                               Fetched 368 kB in 9s (39.4 kB/s)
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 3%Reading package lists... 3%Reading package lists... 6%Reading package lists... 6%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 16%Reading package lists... 30%Reading package lists... 36%Reading package lists... 36%Reading package lists... 46%Reading package lists... 63%Reading package lists... 63%Reading package lists... 72%Reading package lists... 78%Reading package lists... 78%Reading package lists... 78%Reading package lists... 78%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 81%Reading package lists... 81%Reading package lists... 83%Reading package lists... 83%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 88%Reading package lists... 88%Reading package lists... 92%Reading package lists... 92%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 94%Reading package lists... 94%Reading package lists... 95%Reading package lists... 95%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 98%Building dependency tree       
+Reading state information... 0%Reading state information... 1%Reading state information... Done
+73 packages can be upgraded. Run 'apt list --upgradable' to see them.
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ sudo apt updateexit[Kgedit index.phpls[Ksudo vim index.phpsystemctl status apache2[1@restart[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksudo gedit index.php[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksudo vim /etc/apache2/mods-enabled/dir.conf [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install php libapache2-mod-php php-mysql[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Pmariadb -u admin -p[1P[C[C[C[C[C[C[C[6Psudo mariadb[1Pdbysql_secure_installation[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksudo apt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kvim index.html sudo apt install vim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pvim index.htmlls[Ksudo rm index.nginx-debian.html [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Prm -f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Krm -f index.nginx-debian.html [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd /var/www/html/sudo systemctl enable apache2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pufw app info www Full"www Full"apt install ufw app list[K app list[K[3Pufw app listapt install apache2
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 97%Building dependency tree       
+Reading state information... 0%Reading state information... 1%Reading state information... Done
+apache2 is already the newest version (2.4.29-1ubuntu4.6).
+0 upgraded, 0 newly installed, 0 to remove and 73 not upgraded.
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ sudo apt install apache2[9Pupdateexit[Kgedit index.phpls[Ksudo vim index.phpsystemctl status apache2[1@restart[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksudo gedit index.php[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksudo vim /etc/apache2/mods-enabled/dir.conf [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install php libapache2-mod-php php-mysql[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Pmariadb -u admin -p[1P[C[C[C[C[C[C[C[6Psudo mariadb[1Pdbysql_secure_installation[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kvim index.html sudo apt install vim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pvim index.htmlls[Ksudo rm index.nginx-debian.html [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Prm -f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Krm -f index.nginx-debian.html [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd /var/www/html/sudo systemctl enable apache2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pufw app info www Full"www Full"apt install ufw app list[K[3Pufw app listapt install apache2l apache2[10Pupdateinstalll apache2[1P apache2[7Pufw app list
+Available applications:
+  Apache
+  Apache Full
+  Apache Secure
+  CUPS
+  Nginx Full
+  Nginx HTTP
+  Nginx HTTPS
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ sudo apt install ufw
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 97%Building dependency tree       
+Reading state information... 0%Reading state information... 1%Reading state information... Done
+ufw is already the newest version (0.36-0ubuntu0.18.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 73 not upgraded.
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ sudo apt install ufw  app list
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 97%Building dependency tree       
+Reading state information... 0%Reading state information... 1%Reading state information... Done
+E: Unable to locate package app
+E: Unable to locate package list
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ sudo systemctrl[K[Kl enable apache2
+Synchronizing state of apache2.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable apache2
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ cd /var/www/html/
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ ls
+index.html  index.php
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo apt install mariadb-server
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 97%Building dependency tree       
+Reading state information... 0%Reading state information... 1%Reading state information... Done
+mariadb-server is already the newest version (1:10.1.38-0ubuntu0.18.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 73 not upgraded.
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo mysqu[Kl_secure_installation
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MariaDB
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+In order to log into MariaDB to secure it, we'll need the current
+password for the root user.  If you've just installed MariaDB, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+OK, successfully used password, moving on...
+
+Setting the root password ensures that nobody can log into the MariaDB
+root user without the proper authorisation.
+
+You already have a root password set, so you can safely answer 'n'.
+
+Change the root password? [Y/n] y
+New password: 
+Re-enter new password: 
+Password updated successfully!
+Reloading privilege tables..
+ ... Success!
+
+
+By default, a MariaDB installation has an anonymous user, allowing anyone
+to log into MariaDB without having to have a user account created for
+them.  This is intended only for testing, and to make the installation
+go a bit smoother.  You should remove them before moving into a
+production environment.
+
+Remove anonymous users? [Y/n] y
+ ... Success!
+
+Normally, root should only be allowed to connect from 'localhost'.  This
+ensures that someone cannot guess at the root password from the network.
+
+Disallow root login remotely? [Y/n] y
+ ... Success!
+
+By default, MariaDB comes with a database named 'test' that anyone can
+access.  This is also intended only for testing, and should be removed
+before moving into a production environment.
+
+Remove test database and access to it? [Y/n] y
+ - Dropping test database...
+ ... Success!
+ - Removing privileges on test database...
+ ... Success!
+
+Reloading the privilege tables will ensure that all changes made so far
+will take effect immediately.
+
+Reload privilege tables now? [Y/n] y
+ ... Success!
+
+Cleaning up...
+
+All done!  If you've completed all of the above steps, your MariaDB
+installation should now be secure.
+
+Thanks for using MariaDB!
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo maris[Kadb
+(B[0;1mWelcome to the MariaDB monitor.  Commands end with ; or \g.
+(B[m(B[0;1mYour MariaDB connection id is 61
+Server version: 10.1.38-MariaDB-0ubuntu0.18.04.1 Ubuntu 18.04
+
+(B[m(B[0;1mCopyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+(B[m(B[0;1mType 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+(B[m[?1034hMariaDB [(none)]> q
+    -> q[Kexit
+    -> Ctrl-C -- exit!
+(B[0;1mAborted
+(B[m]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo apt install php libapache2-mod-php php-mysql
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 96%Building dependency tree       
+Reading state information... 0%Reading state information... 1%Reading state information... Done
+libapache2-mod-php is already the newest version (1:7.2+60ubuntu1).
+php is already the newest version (1:7.2+60ubuntu1).
+php-mysql is already the newest version (1:7.2+60ubuntu1).
+0 upgraded, 0 newly installed, 0 to remove and 73 not upgraded.
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo apt install php libapache2-mod-php php-mysql[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmariadb[Kysql_secure_installationapt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd /var/www/html/sudo systemctl enable apache2apt install ufw  app list[K[3Pufw app listapt install apache2[9Pupdateexit[Kgedit index.phpls[Ksudo vim index.phpsystemctl status apache2[1@restart[C[C[C[C[C[C[C[Cls[Ksudo systemctl restart apache2[1Pstatus[C[C[C[C[C[C[C[C[11Pvim index.phpsystemctl status apache2[1@restart[C[C[C[C[C[C[C[Cls[Ksudo gedit index.phpls[Ksudo vim /etc/apache2/mods-enabled/dir.conf 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"/etc/apache2/mods-enabled/dir.conf" 5L, 157C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[38;5;130m<IfModule[m[31m mod_dir.c[m[38;5;130m>[m[2;9H[36mDirectoryIndex[m index.html index.cgi index.pl index.php index.[31mxhtml[m indexx[3;1H.htm
+[38;5;130m</IfModule>[m
+
+[34m# vim: syntax=apache ts=4 sw=4 sts=4 sr noet[m
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H5,10[10CAll[6;10H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[93m<IfModule[m[95m mod_dir.c[m[93m>[m[2;9H[1m[96mDirectoryIndex[m index.html index.cgi index.pl index.php index.[95mxhtml[m indexx[3;1H.htm
+[93m</IfModule>[m
+
+[96m# vim: syntax=apache ts=4 sw=4 sts=4 sr noet[m
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H5,10[10CAll"/etc/apache2/mods-enabled/dir.conf" 5L, 157C[6;10H[?25h[?25l[24;53H^[[6;10H[24;53H  [6;10H[24;53H^[[6;10H[24;53H  [6;10H[?25h[?25l[24;53H:[6;10H[24;1H[K[24;1H:[?2004h[?25hq[?25l[?25h[?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[?1049l[23;0;0t]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo vim /etc/apache2/mods-enabled/dir.conf [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install php libapache2-mod-php php-mysql[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmariadb[Kysql_secure_installationapt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd /var/www/html/sudo systemctl enable apache2apt install ufw  app list[K[3Pufw app listapt install apache2[9Pupdateexit[Kgedit index.phpls[Ksudo vim index.phpsystemctl status apache2[1@restart[C[C[C[C[C[C[C[Cls[Ksudo systemctl restart apache2
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo systemctl restart apache2vim /etc/apache2/mods-enabled/dir.conf [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install php libapache2-mod-php php-mysql[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmariadb[Kysql_secure_installationapt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd /var/www/html/sudo systemctl enable apache2apt install ufw  app list[K[3Pufw app listapt install apache2[9Pupdateexit[Kgedit index.phpls[Ksudo vim index.phpsystemctl status apache2[1@restart[C[C[C[C[C[C[C[Cls[Ksudo gedit index.phpls[Ksudo vim /etc/apache2/mods-enabled/dir.conf [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+index.html  index.php
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo gedit index.php
+
+** (gedit:7767): [1;33mWARNING[0m **: [34m11:37:04.986[0m: Set document metadata failed: Setting attribute metadata::gedit-spell-language not supported
+
+** (gedit:7767): [1;33mWARNING[0m **: [34m11:37:04.986[0m: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:7767): [1;33mWARNING[0m **: [34m11:37:07.803[0m: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ sudo gedit index.phpls[Ksudo systemctl restart apache2vim /etc/apache2/mods-enabled/dir.conf [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install php libapache2-mod-php php-mysql[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmariadb[Kysql_secure_installationapt install mariadb-server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd /var/www/html/sudo systemctl enable apache2apt install ufw  app list[K[3Pufw app list[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo apt install apache2[9Pupdateexit[Kgedit index.php[1@s[1@u[1@d[1@o[1@ 
+
+** (gedit:11378): [1;33mWARNING[0m **: [34m11:41:43.251[0m: Set document metadata failed: Setting attribute metadata::gedit-spell-language not supported
+
+** (gedit:11378): [1;33mWARNING[0m **: [34m11:41:43.252[0m: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:11378): [1;33mWARNING[0m **: [34m11:41:44.923[0m: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;nirmal@lenovo: /var/www/html[01;32mnirmal@lenovo[00m:[01;34m/var/www/html[00m$ exit
+exit
+
+Script done on 2019-04-25 11:42:23+0530
