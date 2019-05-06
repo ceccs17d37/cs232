@@ -1,0 +1,9 @@
+Script started on 2019-04-25 09:35:47+0530
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ perl add.pl
+Enter 2 numbers:3
+5
+sum=8
+]0;nirmal@lenovo: ~[01;32mnirmal@lenovo[00m:[01;34m~[00m$ exit4[K
+exit
+
+Script done on 2019-04-25 09:36:02+0530
